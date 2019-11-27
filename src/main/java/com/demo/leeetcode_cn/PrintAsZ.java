@@ -81,6 +81,7 @@ public class PrintAsZ {
 
         for(int i = 1;i<aList.size();){
             Collections.reverse(aList.get(i));
+
             i = i+2;
         }
         return aList;

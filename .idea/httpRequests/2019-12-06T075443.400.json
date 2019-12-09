@@ -1,0 +1,7 @@
+{
+  "timestamp": "2019-12-06T11:54:44.330+0000",
+  "status": 400,
+  "error": "Bad Request",
+  "message": "JSON parse error: Unrecognized token 'menuType': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'menuType': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 10]",
+  "path": "/aioc-userapi/user/getUserMenus"
+}

@@ -1,0 +1,960 @@
+POST http://wenxian-cloud.xjoycity.com/aioc-userapi/user/getUserMenus
+Accept: application/json
+Cache-Control: no-cache
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36
+Referer: http://wenxian-cloud.xjoycity.com/policy/bussinessMatchingPolicy.html
+Host: wenxian-cloud.xjoycity.com
+Cookie: gunsToken=1c11c1861b564b479c7232ea3d67acb3
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+Accept-Encoding: gzip, deflate
+Content-Type: application/json
+Host: wenxian-cloud.xjoycity.com
+Origin: http://wenxian-cloud.xjoycity.com
+Connection: keep-alive
+
+< C:/Users/zhuhui9/Desktop/FeHelper-20191206190845.json
+
+<> 2019-12-06T084025.200.json
+
+###
+
+POST http://wenxian-cloud.xjoycity.com/aioc-userapi/user/getUserMenus
+Accept: application/json
+Cache-Control: no-cache
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36
+Referer: http://wenxian-cloud.xjoycity.com/policy/bussinessMatchingPolicy.html
+Host: wenxian-cloud.xjoycity.com
+Cookie: gunsToken=1c11c1861b564b479c7232ea3d67acb3
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+Accept-Encoding: gzip, deflate
+Content-Type: application/json
+Host: wenxian-cloud.xjoycity.com
+Origin: http://wenxian-cloud.xjoycity.com
+Connection: keep-alive
+
+< C:/Users/zhuhui9/Desktop/FeHelper-20191206190845.json
+
+<> 2019-12-06T084024.200.json
+
+###
+
+POST http://wenxian-cloud.xjoycity.com/aioc-userapi/user/getUserMenus
+Accept: application/json
+Cache-Control: no-cache
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36
+Referer: http://wenxian-cloud.xjoycity.com/policy/bussinessMatchingPolicy.html
+Host: wenxian-cloud.xjoycity.com
+Cookie: gunsToken=1c11c1861b564b479c7232ea3d67acb3
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+Accept-Encoding: gzip, deflate
+Content-Type: application/json
+Host: wenxian-cloud.xjoycity.com
+Origin: http://wenxian-cloud.xjoycity.com
+Connection: keep-alive
+
+< C:/Users/zhuhui9/Desktop/FeHelper-20191206190845.json
+
+<> 2019-12-06T084021.200.json
+
+###
+
+POST http://wenxian-cloud.xjoycity.com/aioc-userapi/user/getUserMenus?=
+Accept: application/json
+Cache-Control: no-cache
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36
+Referer: http://wenxian-cloud.xjoycity.com/policy/bussinessMatchingPolicy.html
+Host: wenxian-cloud.xjoycity.com
+Cookie: gunsToken=1c11c1861b564b479c7232ea3d67acb3
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+Accept-Encoding: gzip, deflate
+Content-Type: application/json
+Host: wenxian-cloud.xjoycity.com
+Origin: http://wenxian-cloud.xjoycity.com
+Connection: keep-alive
+
+< C:/Users/zhuhui9/Desktop/FeHelper-20191206190845.json
+
+<> 2019-12-06T084005.200.json
+
+###
+
+POST http://wenxian-cloud.xjoycity.com/aioc-userapi/user/getUserMenus
+Accept: application/json
+Cache-Control: no-cache
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36
+Referer: http://wenxian-cloud.xjoycity.com/policy/bussinessMatchingPolicy.html
+Host: wenxian-cloud.xjoycity.com
+Cookie: gunsToken=1c11c1861b564b479c7232ea3d67acb3
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+Accept-Encoding: gzip, deflate
+Content-Type: application/json
+Host: wenxian-cloud.xjoycity.com
+Origin: http://wenxian-cloud.xjoycity.com
+Connection: keep-alive
+
+< C:/Users/zhuhui9/Desktop/FeHelper-20191206190845.json
+
+<> 2019-12-06T084000.200.json
+
+###
+
+POST http://wenxian-cloud.xjoycity.com/aioc-userapi/user/getUserMenus?{"menuType":"policy"}=
+Accept: application/json
+Cache-Control: no-cache
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36
+Referer: http://wenxian-cloud.xjoycity.com/policy/bussinessMatchingPolicy.html
+Host: wenxian-cloud.xjoycity.com
+Cookie: gunsToken=1c11c1861b564b479c7232ea3d67acb3
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+Accept-Encoding: gzip, deflate
+Content-Type: application/json
+Host: wenxian-cloud.xjoycity.com
+Origin: http://wenxian-cloud.xjoycity.com
+Connection: keep-alive
+
+<> 2019-12-06T083942.400.json
+
+###
+
+POST http://wenxian-cloud.xjoycity.com/aioc-userapi/user/getUserMenus?{"menuType":"policy"}=
+Accept: application/json
+Cache-Control: no-cache
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36
+Referer: http://wenxian-cloud.xjoycity.com/policy/bussinessMatchingPolicy.html
+Host: wenxian-cloud.xjoycity.com
+Cookie: gunsToken=1c11c1861b564b479c7232ea3d67acb3
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+Accept-Encoding: gzip, deflate
+Content-Type: application/json
+Host: wenxian-cloud.xjoycity.com
+Origin: http://wenxian-cloud.xjoycity.com
+Connection: keep-alive
+
+<> 2019-12-06T083941.400.json
+
+###
+
+POST http://wenxian-cloud.xjoycity.com/aioc-userapi/user/getUserMenus?menuType=policy
+Accept: application/json
+Cache-Control: no-cache
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36
+Referer: http://wenxian-cloud.xjoycity.com/policy/bussinessMatchingPolicy.html
+Host: wenxian-cloud.xjoycity.com
+Cookie: gunsToken=1c11c1861b564b479c7232ea3d67acb3
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+Accept-Encoding: gzip, deflate
+Content-Type: application/json
+Host: wenxian-cloud.xjoycity.com
+Origin: http://wenxian-cloud.xjoycity.com
+Connection: keep-alive
+
+<> 2019-12-06T083701-1.400.json
+
+###
+
+POST http://wenxian-cloud.xjoycity.com/aioc-userapi/user/getUserMenus?menuType=policy
+Accept: application/json
+Cache-Control: no-cache
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36
+Referer: http://wenxian-cloud.xjoycity.com/policy/bussinessMatchingPolicy.html
+Host: wenxian-cloud.xjoycity.com
+Cookie: gunsToken=1c11c1861b564b479c7232ea3d67acb3
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+Accept-Encoding: gzip, deflate
+Content-Type: application/json
+Host: wenxian-cloud.xjoycity.com
+Origin: http://wenxian-cloud.xjoycity.com
+Connection: keep-alive
+
+<> 2019-12-06T083701.400.json
+
+###
+
+POST http://wenxian-cloud.xjoycity.com/aioc-userapi/user/getUserMenus?menuType=policy
+Accept: application/json
+Cache-Control: no-cache
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36
+Referer: http://wenxian-cloud.xjoycity.com/policy/bussinessMatchingPolicy.html
+Host: wenxian-cloud.xjoycity.com
+Cookie: gunsToken=1c11c1861b564b479c7232ea3d67acb3
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+Accept-Encoding: gzip, deflate
+Content-Type: application/json
+Host: wenxian-cloud.xjoycity.com
+Origin: http://wenxian-cloud.xjoycity.com
+Connection: keep-alive
+
+<> 2019-12-06T083659.400.json
+
+###
+
+POST http://wenxian-cloud.xjoycity.com/aioc-userapi/user/getUserMenus?menuType=policy
+Accept: application/json, text/plain, */*
+Cache-Control: no-cache
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36
+Referer: http://wenxian-cloud.xjoycity.com/policy/bussinessMatchingPolicy.html
+Host: wenxian-cloud.xjoycity.com
+Cookie: gunsToken=1c11c1861b564b479c7232ea3d67acb3
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+Accept-Encoding: gzip, deflate
+Content-Type: application/json
+Host: wenxian-cloud.xjoycity.com
+Origin: http://wenxian-cloud.xjoycity.com
+Connection: keep-alive
+
+<> 2019-12-06T083614.400.json
+
+###
+
+POST http://wenxian-cloud.xjoycity.com/aioc-userapi/user/getUserMenus?menuType=policy
+Accept: application/json, text/plain, */*
+Cache-Control: no-cache
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36
+Referer: http://wenxian-cloud.xjoycity.com/policy/bussinessMatchingPolicy.html
+Host: wenxian-cloud.xjoycity.com
+Cookie: gunsToken=1c11c1861b564b479c7232ea3d67acb3
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+Accept-Encoding: gzip, deflate
+Content-Type: application/json
+Host: wenxian-cloud.xjoycity.com
+Origin: http://wenxian-cloud.xjoycity.com
+Connection: keep-alive
+
+<> 2019-12-06T083609.400.json
+
+###
+
+POST http://wenxian-cloud.xjoycity.com/aioc-userapi/user/getUserMenus?menuType=policy
+Accept: application/json, text/plain, */*
+Cache-Control: no-cache
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36
+Referer: http://wenxian-cloud.xjoycity.com/policy/bussinessMatchingPolicy.html
+Host: wenxian-cloud.xjoycity.com
+Cookie: gunsToken=1c11c1861b564b479c7232ea3d67acb3
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+Accept-Encoding: gzip, deflate
+Content-Type: application/json
+Host: wenxian-cloud.xjoycity.com
+Origin: http://wenxian-cloud.xjoycity.com
+Connection: keep-alive
+
+{"menuType":"policy"}
+
+<> 2019-12-06T083605.200.json
+
+###
+
+POST http://wenxian-cloud.xjoycity.com/aioc-userapi/user/getUserMenus?menuType=policy
+Accept: application/json, text/plain, */*
+Cache-Control: no-cache
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36
+Referer: http://wenxian-cloud.xjoycity.com/policy/bussinessMatchingPolicy.html
+Host: wenxian-cloud.xjoycity.com
+Cookie: gunsToken=1c11c1861b564b479c7232ea3d67acb3
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+Accept-Encoding: gzip, deflate
+Content-Type: application/json
+Host: wenxian-cloud.xjoycity.com
+Origin: http://wenxian-cloud.xjoycity.com
+Connection: keep-alive
+
+{"menuType":"policy"}
+
+<> 2019-12-06T083603.200.json
+
+###
+
+POST http://wenxian-cloud.xjoycity.com/aioc-userapi/user/getUserMenus?menuType=policy
+Accept: application/json, text/plain, */*
+Cache-Control: no-cache
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36
+Referer: http://wenxian-cloud.xjoycity.com/policy/bussinessMatchingPolicy.html
+Host: wenxian-cloud.xjoycity.com
+Cookie: gunsToken=1c11c1861b564b479c7232ea3d67acb3
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+Accept-Encoding: gzip, deflate
+Content-Type: application/json
+Host: wenxian-cloud.xjoycity.com
+Origin: http://wenxian-cloud.xjoycity.com
+Connection: keep-alive
+
+{"menuType":"policy"}
+
+<> 2019-12-06T083136.200.json
+
+###
+
+POST http://wenxian-cloud.xjoycity.com/aioc-userapi/user/getUserMenus?menuType=policy
+Accept: application/json, text/plain, */*
+Cache-Control: no-cache
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36
+Referer: http://wenxian-cloud.xjoycity.com/policy/bussinessMatchingPolicy.html
+Host: wenxian-cloud.xjoycity.com
+Cookie: gunsToken=1c11c1861b564b479c7232ea3d67acb3
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+Accept-Encoding: gzip, deflate
+Content-Type: application/json
+Host: wenxian-cloud.xjoycity.com
+Origin: http://wenxian-cloud.xjoycity.com
+Connection: keep-alive
+
+{"menuType":"policy"}
+
+<> 2019-12-06T083134.200.json
+
+###
+
+POST http://wenxian-cloud.xjoycity.com/aioc-userapi/user/getUserMenus?menuType=policy
+Accept: application/json, text/plain, */*
+Cache-Control: no-cache
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36
+Referer: http://wenxian-cloud.xjoycity.com/policy/bussinessMatchingPolicy.html
+Host: wenxian-cloud.xjoycity.com
+Cookie: gunsToken=1c11c1861b564b479c7232ea3d67acb3
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+Accept-Encoding: gzip, deflate
+Content-Type: application/json
+Host: wenxian-cloud.xjoycity.com
+Origin: http://wenxian-cloud.xjoycity.com
+Connection: keep-alive
+
+<> 2019-12-06T082316.400.json
+
+###
+
+POST http://wenxian-cloud.xjoycity.com/aioc-userapi/user/getUserMenus?"menuType"="policy"
+Accept: application/json, text/plain, */*
+Cache-Control: no-cache
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36
+Referer: http://wenxian-cloud.xjoycity.com/policy/bussinessMatchingPolicy.html
+Host: wenxian-cloud.xjoycity.com
+Cookie: gunsToken=1c11c1861b564b479c7232ea3d67acb3
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+Accept-Encoding: gzip, deflate
+Content-Type: application/json
+Host: wenxian-cloud.xjoycity.com
+Origin: http://wenxian-cloud.xjoycity.com
+Connection: keep-alive
+
+<> 2019-12-06T082245.400.json
+
+###
+
+POST http://wenxian-cloud.xjoycity.com/aioc-userapi/user/getUserMenus?"menuType"="policy"
+Accept: application/json, text/plain, */*
+Cache-Control: no-cache
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36
+Referer: http://wenxian-cloud.xjoycity.com/policy/bussinessMatchingPolicy.html
+Host: wenxian-cloud.xjoycity.com
+Cookie: gunsToken=1c11c1861b564b479c7232ea3d67acb3
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+Accept-Encoding: gzip, deflate
+Content-Type: application/json
+Host: wenxian-cloud.xjoycity.com
+Origin: http://wenxian-cloud.xjoycity.com
+Connection: keep-alive
+
+<> 2019-12-06T082244.400.json
+
+###
+
+POST http://wenxian-cloud.xjoycity.com/aioc-userapi/user/getUserMenus?"menuType=policy"
+Accept: application/json, text/plain, */*
+Cache-Control: no-cache
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36
+Referer: http://wenxian-cloud.xjoycity.com/policy/bussinessMatchingPolicy.html
+Host: wenxian-cloud.xjoycity.com
+Cookie: gunsToken=1c11c1861b564b479c7232ea3d67acb3
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+Accept-Encoding: gzip, deflate
+Content-Type: application/json
+Host: wenxian-cloud.xjoycity.com
+Origin: http://wenxian-cloud.xjoycity.com
+Connection: keep-alive
+
+<> 2019-12-06T082213.400.json
+
+###
+
+POST http://wenxian-cloud.xjoycity.com/aioc-userapi/user/getUserMenus?"menuType=policy"
+Accept: application/json, text/plain, */*
+Cache-Control: no-cache
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36
+Referer: http://wenxian-cloud.xjoycity.com/policy/bussinessMatchingPolicy.html
+Host: wenxian-cloud.xjoycity.com
+Cookie: gunsToken=1c11c1861b564b479c7232ea3d67acb3
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+Accept-Encoding: gzip, deflate
+Content-Type: application/json
+Host: wenxian-cloud.xjoycity.com
+Origin: http://wenxian-cloud.xjoycity.com
+Connection: keep-alive
+
+<> 2019-12-06T082210.400.json
+
+###
+
+POST http://wenxian-cloud.xjoycity.com/aioc-userapi/user/getUserMenus?"menuType"="policy"
+Accept: application/json, text/plain, */*
+Cache-Control: no-cache
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36
+Referer: http://wenxian-cloud.xjoycity.com/policy/bussinessMatchingPolicy.html
+Host: wenxian-cloud.xjoycity.com
+Cookie: gunsToken=1c11c1861b564b479c7232ea3d67acb3
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+Accept-Encoding: gzip, deflate
+Content-Type: application/json
+Host: wenxian-cloud.xjoycity.com
+Origin: http://wenxian-cloud.xjoycity.com
+Connection: keep-alive
+
+<> 2019-12-06T082122.400.json
+
+###
+
+POST http://wenxian-cloud.xjoycity.com/aioc-userapi/user/getUserMenus
+Accept: application/json, text/plain, */*
+Cache-Control: no-cache
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36
+Referer: http://wenxian-cloud.xjoycity.com/policy/bussinessMatchingPolicy.html
+Host: wenxian-cloud.xjoycity.com
+Cookie: gunsToken=1c11c1861b564b479c7232ea3d67acb3
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+Accept-Encoding: gzip, deflate
+Content-Type: application/json
+Host: wenxian-cloud.xjoycity.com
+Origin: http://wenxian-cloud.xjoycity.com
+Connection: keep-alive
+
+< C:/Users/zhuhui9/Desktop/FeHelper-20191206190845.json
+
+<> 2019-12-06T081950.200.json
+
+###
+
+POST http://wenxian-cloud.xjoycity.com/aioc-userapi/user/getUserMenus
+Accept: application/json, text/plain, */*
+Cache-Control: no-cache
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36
+Referer: http://wenxian-cloud.xjoycity.com/policy/bussinessMatchingPolicy.html
+Host: wenxian-cloud.xjoycity.com
+Cookie: gunsToken=1c11c1861b564b479c7232ea3d67acb3
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+Accept-Encoding: gzip, deflate
+Content-Type: application/json
+Host: wenxian-cloud.xjoycity.com
+Origin: http://wenxian-cloud.xjoycity.com
+Connection: keep-alive
+
+<> 2019-12-06T081457.400.json
+
+###
+
+POST http://wenxian-cloud.xjoycity.com/aioc-userapi/user/getUserMenus
+Accept: application/json, text/plain, */*
+Cache-Control: no-cache
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36
+Referer: http://wenxian-cloud.xjoycity.com/policy/bussinessMatchingPolicy.html
+Host: wenxian-cloud.xjoycity.com
+Cookie: gunsToken=1c11c1861b564b479c7232ea3d67acb3
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+Accept-Encoding: gzip, deflate
+Content-Type: application/json
+Host: wenxian-cloud.xjoycity.com
+Origin: http://wenxian-cloud.xjoycity.com
+Connection: keep-alive
+
+{"menuType":"policy"}
+
+<> 2019-12-06T081452.200.json
+
+###
+
+POST http://wenxian-cloud.xjoycity.com/aioc-userapi/user/getUserMenus
+Accept: application/json, text/plain, */*
+Cache-Control: no-cache
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36
+Referer: http://wenxian-cloud.xjoycity.com/policy/bussinessMatchingPolicy.html
+Host: wenxian-cloud.xjoycity.com
+Cookie: gunsToken=1c11c1861b564b479c7232ea3d67acb3
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+Accept-Encoding: gzip, deflate
+Content-Type: application/json
+Host: wenxian-cloud.xjoycity.com
+Origin: http://wenxian-cloud.xjoycity.com
+Connection: keep-alive
+
+{"menuType":"policy"}
+
+<> 2019-12-06T081428.200.json
+
+###
+
+POST http://wenxian-cloud.xjoycity.com/aioc-userapi/user/getUserMenus
+Accept: application/json, text/plain, */*
+Cache-Control: no-cache
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36
+Referer: http://wenxian-cloud.xjoycity.com/policy/bussinessMatchingPolicy.html
+Host: wenxian-cloud.xjoycity.com
+Cookie: gunsToken=1c11c1861b564b479c7232ea3d67acb3
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+Accept-Encoding: gzip, deflate
+Content-Type: application/json
+Host: wenxian-cloud.xjoycity.com
+Origin: http://wenxian-cloud.xjoycity.com
+Connection: keep-alive
+
+<> 2019-12-06T081418.400.json
+
+###
+
+POST http://wenxian-cloud.xjoycity.com/aioc-userapi/user/getUserMenus?menuType=policy
+Accept: application/json, text/plain, */*
+Cache-Control: no-cache
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36
+Referer: http://wenxian-cloud.xjoycity.com/policy/bussinessMatchingPolicy.html
+Host: wenxian-cloud.xjoycity.com
+Cookie: gunsToken=1c11c1861b564b479c7232ea3d67acb3
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+Accept-Encoding: gzip, deflate
+Content-Type: application/json
+Host: wenxian-cloud.xjoycity.com
+Origin: http://wenxian-cloud.xjoycity.com
+Connection: keep-alive
+
+<> 2019-12-06T081408.400.json
+
+###
+
+POST http://wenxian-cloud.xjoycity.com/aioc-userapi/user/getUserMenus?menuType=policy
+Accept: application/json, text/plain, */*
+Cache-Control: no-cache
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36
+Referer: http://wenxian-cloud.xjoycity.com/policy/bussinessMatchingPolicy.html
+Host: wenxian-cloud.xjoycity.com
+Cookie: gunsToken=1c11c1861b564b479c7232ea3d67acb3
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+Accept-Encoding: gzip, deflate
+Content-Type: application/json
+Host: wenxian-cloud.xjoycity.com
+Origin: http://wenxian-cloud.xjoycity.com
+Connection: keep-alive
+
+{"menuType":"policy"}
+
+<> 2019-12-06T081401.200.json
+
+###
+
+POST http://wenxian-cloud.xjoycity.com/aioc-userapi/user/getUserMenus?menuType=policy
+Accept: application/json, text/plain, */*
+Cache-Control: no-cache
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36
+Referer: http://wenxian-cloud.xjoycity.com/policy/bussinessMatchingPolicy.html
+Host: wenxian-cloud.xjoycity.com
+Cookie: gunsToken=1c11c1861b564b479c7232ea3d67acb3
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+Accept-Encoding: gzip, deflate
+Content-Type: application/json
+Host: wenxian-cloud.xjoycity.com
+Origin: http://wenxian-cloud.xjoycity.com
+Connection: keep-alive
+
+{"menuType":"policy"}
+
+<> 2019-12-06T080116.200.json
+
+###
+
+POST http://wenxian-cloud.xjoycity.com/aioc-userapi/user/getUserMenus?menuType=policy
+Accept: application/json, text/plain, */*
+Cache-Control: no-cache
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36
+Referer: http://wenxian-cloud.xjoycity.com/policy/bussinessMatchingPolicy.html
+Host: wenxian-cloud.xjoycity.com
+Cookie: gunsToken=1c11c1861b564b479c7232ea3d67acb3
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+Accept-Encoding: gzip, deflate
+Content-Type: application/json
+Host: wenxian-cloud.xjoycity.com
+Origin: http://wenxian-cloud.xjoycity.com
+Connection: keep-alive
+
+{"menuType":"policy"}
+
+<> 2019-12-06T080056.200.json
+
+###
+
+POST http://wenxian-cloud.xjoycity.com/aioc-userapi/user/getUserMenus?menuType=policy
+Accept: application/json, text/plain, */*
+Cache-Control: no-cache
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36
+Referer: http://wenxian-cloud.xjoycity.com/policy/bussinessMatchingPolicy.html
+Host: wenxian-cloud.xjoycity.com
+Cookie: gunsToken=1c11c1861b564b479c7232ea3d67acb3
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+Accept-Encoding: gzip, deflate
+Content-Type: application/json
+Host: wenxian-cloud.xjoycity.com
+Origin: http://wenxian-cloud.xjoycity.com
+Connection: keep-alive
+
+{"menuType":"policy"}
+
+<> 2019-12-06T080055.200.json
+
+###
+
+POST http://wenxian-cloud.xjoycity.com/aioc-userapi/user/getUserMenus?menuType=policy
+Accept: application/json, text/plain, */*
+Cache-Control: no-cache
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36
+Referer: http://wenxian-cloud.xjoycity.com/policy/bussinessMatchingPolicy.html
+Host: wenxian-cloud.xjoycity.com
+Cookie: gunsToken=1c11c1861b564b479c7232ea3d67acb3
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+Accept-Encoding: gzip, deflate
+Content-Type: application/json
+Host: wenxian-cloud.xjoycity.com
+Origin: http://wenxian-cloud.xjoycity.com
+Connection: keep-alive
+
+{"menuType":"policy"}
+
+<> 2019-12-06T080027.200.json
+
+###
+
+POST http://wenxian-cloud.xjoycity.com/aioc-userapi/user/getUserMenus?menuType=policy
+Accept: application/json, text/plain, */*
+Cache-Control: no-cache
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36
+Referer: http://wenxian-cloud.xjoycity.com/policy/bussinessMatchingPolicy.html
+Host: wenxian-cloud.xjoycity.com
+Cookie: gunsToken=1c11c1861b564b479c7232ea3d67acb3
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+Accept-Encoding: gzip, deflate
+Content-Type: application/json
+Host: wenxian-cloud.xjoycity.com
+Origin: http://wenxian-cloud.xjoycity.com
+Connection: keep-alive
+
+{"menuType":"policy"}
+
+<> 2019-12-06T080026.200.json
+
+###
+
+GET http://wenxian-cloud.xjoycity.com/aioc-userapi/user/getUserMenus?menuType=policy
+Accept: application/json, text/plain, */*
+Cache-Control: no-cache
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36
+Referer: http://wenxian-cloud.xjoycity.com/policy/bussinessMatchingPolicy.html
+Host: wenxian-cloud.xjoycity.com
+Cookie: gunsToken=1c11c1861b564b479c7232ea3d67acb3
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+Accept-Encoding: gzip, deflate
+Content-Type: application/json
+Host: wenxian-cloud.xjoycity.com
+Origin: http://wenxian-cloud.xjoycity.com
+Connection: keep-alive
+
+<> 2019-12-06T080004.400.json
+
+###
+
+GET http://wenxian-cloud.xjoycity.com/aioc-userapi/user/getUserMenus?menuType=policy
+Accept: application/json, text/plain, */*
+Cache-Control: no-cache
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36
+Referer: http://wenxian-cloud.xjoycity.com/policy/bussinessMatchingPolicy.html
+Host: wenxian-cloud.xjoycity.com
+Cookie: gunsToken=1c11c1861b564b479c7232ea3d67acb3
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+Accept-Encoding: gzip, deflate
+Content-Type: application/json
+Host: wenxian-cloud.xjoycity.com
+Origin: http://wenxian-cloud.xjoycity.com
+Connection: keep-alive
+
+<> 2019-12-06T080002.400.json
+
+###
+
+GET http://wenxian-cloud.xjoycity.com/aioc-userapi/user/getUserMenus?"menuType"="policy"
+Accept: application/json, text/plain, */*
+Cache-Control: no-cache
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36
+Referer: http://wenxian-cloud.xjoycity.com/policy/bussinessMatchingPolicy.html
+Host: wenxian-cloud.xjoycity.com
+Cookie: gunsToken=1c11c1861b564b479c7232ea3d67acb3
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+Accept-Encoding: gzip, deflate
+Content-Type: application/json
+Host: wenxian-cloud.xjoycity.com
+Origin: http://wenxian-cloud.xjoycity.com
+Connection: keep-alive
+
+<> 2019-12-06T075943.400.json
+
+###
+
+GET http://wenxian-cloud.xjoycity.com/aioc-userapi/user/getUserMenus?"menuType"="policy"
+Accept: application/json, text/plain, */*
+Cache-Control: no-cache
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36
+Referer: http://wenxian-cloud.xjoycity.com/policy/bussinessMatchingPolicy.html
+Host: wenxian-cloud.xjoycity.com
+Cookie: gunsToken=1c11c1861b564b479c7232ea3d67acb3
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+Accept-Encoding: gzip, deflate
+Content-Type: application/json
+Host: wenxian-cloud.xjoycity.com
+Origin: http://wenxian-cloud.xjoycity.com
+Connection: keep-alive
+
+{"menuType":"policy"}
+
+<> 2019-12-06T075917.200.json
+
+###
+
+GET http://wenxian-cloud.xjoycity.com/aioc-userapi/user/getUserMenus?"menuType"="policy"
+Accept: application/json, text/plain, */*
+Cache-Control: no-cache
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36
+Referer: http://wenxian-cloud.xjoycity.com/policy/bussinessMatchingPolicy.html
+Host: wenxian-cloud.xjoycity.com
+Cookie: gunsToken=1c11c1861b564b479c7232ea3d67acb3
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+Accept-Encoding: gzip, deflate
+Content-Type: application/json
+Host: wenxian-cloud.xjoycity.com
+Origin: http://wenxian-cloud.xjoycity.com
+Connection: keep-alive
+
+{"menuType":"policy"}
+
+<> 2019-12-06T075915.200.json
+
+###
+
+POST http://wenxian-cloud.xjoycity.com/aioc-userapi/user/getUserMenus?"menuType"="policy"
+Accept: application/json, text/plain, */*
+Cache-Control: no-cache
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36
+Referer: http://wenxian-cloud.xjoycity.com/policy/bussinessMatchingPolicy.html
+Host: wenxian-cloud.xjoycity.com
+Cookie: gunsToken=1c11c1861b564b479c7232ea3d67acb3
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+Accept-Encoding: gzip, deflate
+Content-Type: application/json
+Host: wenxian-cloud.xjoycity.com
+Origin: http://wenxian-cloud.xjoycity.com
+Connection: keep-alive
+
+{"menuType":"policy"}
+
+<> 2019-12-06T075842.200.json
+
+###
+
+POST http://wenxian-cloud.xjoycity.com/aioc-userapi/user/getUserMenus?"menuType"="policy"
+Accept: application/json, text/plain, */*
+Cache-Control: no-cache
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36
+Referer: http://wenxian-cloud.xjoycity.com/policy/bussinessMatchingPolicy.html
+Host: wenxian-cloud.xjoycity.com
+Cookie: gunsToken=1c11c1861b564b479c7232ea3d67acb3
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+Accept-Encoding: gzip, deflate
+Content-Type: application/json
+Host: wenxian-cloud.xjoycity.com
+Origin: http://wenxian-cloud.xjoycity.com
+Connection: keep-alive
+
+{"menuType":"policy"}
+
+<> 2019-12-06T075547.200.json
+
+###
+
+POST http://wenxian-cloud.xjoycity.com/aioc-userapi/user/getUserMenus?"menuType"="policy"
+Accept: application/json, text/plain, */*
+Cache-Control: no-cache
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36
+Referer: http://wenxian-cloud.xjoycity.com/policy/bussinessMatchingPolicy.html
+Host: wenxian-cloud.xjoycity.com
+Cookie: gunsToken=1c11c1861b564b479c7232ea3d67acb3
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+Accept-Encoding: gzip, deflate
+Content-Type: application/json
+Host: wenxian-cloud.xjoycity.com
+Origin: http://wenxian-cloud.xjoycity.com
+Connection: keep-alive
+
+{"menuType":"policy"}
+
+<> 2019-12-06T075541.200.json
+
+###
+
+POST http://wenxian-cloud.xjoycity.com/aioc-userapi/user/getUserMenus?"menuType"="policy"
+Accept: application/json, text/plain, */*
+Cache-Control: no-cache
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36
+Referer: http://wenxian-cloud.xjoycity.com/policy/bussinessMatchingPolicy.html
+Host: wenxian-cloud.xjoycity.com
+Cookie: gunsToken=1c11c1861b564b479c7232ea3d67acb3
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+Accept-Encoding: gzip, deflate
+Content-Type: application/json
+Host: wenxian-cloud.xjoycity.com
+Origin: http://wenxian-cloud.xjoycity.com
+Connection: keep-alive
+
+{"menuType"="policy"}
+
+<> 2019-12-06T075522.400.json
+
+###
+
+POST http://wenxian-cloud.xjoycity.com/aioc-userapi/user/getUserMenus?"menuType"="policy"
+Accept: application/json, text/plain, */*
+Cache-Control: no-cache
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36
+Referer: http://wenxian-cloud.xjoycity.com/policy/bussinessMatchingPolicy.html
+Host: wenxian-cloud.xjoycity.com
+Cookie: gunsToken=1c11c1861b564b479c7232ea3d67acb3
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+Accept-Encoding: gzip, deflate
+Content-Type: application/json
+Host: wenxian-cloud.xjoycity.com
+Origin: http://wenxian-cloud.xjoycity.com
+Connection: keep-alive
+
+{"menuType"="policy"}
+
+<> 2019-12-06T075521.400.json
+
+###
+
+POST http://wenxian-cloud.xjoycity.com/aioc-userapi/user/getUserMenus?"menuType"="policy"
+Accept: application/json, text/plain, */*
+Cache-Control: no-cache
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36
+Referer: http://wenxian-cloud.xjoycity.com/policy/bussinessMatchingPolicy.html
+Host: wenxian-cloud.xjoycity.com
+Cookie: gunsToken=1c11c1861b564b479c7232ea3d67acb3
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+Accept-Encoding: gzip, deflate
+Content-Type: application/json
+Host: wenxian-cloud.xjoycity.com
+Origin: http://wenxian-cloud.xjoycity.com
+Connection: keep-alive
+
+{"menuType"="policy"}
+
+<> 2019-12-06T075520.400.json
+
+###
+
+POST http://wenxian-cloud.xjoycity.com/aioc-userapi/user/getUserMenus?"menuType"="policy"
+Accept: application/json, text/plain, */*
+Cache-Control: no-cache
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36
+Referer: http://wenxian-cloud.xjoycity.com/policy/bussinessMatchingPolicy.html
+Host: wenxian-cloud.xjoycity.com
+Cookie: gunsToken=1c11c1861b564b479c7232ea3d67acb3
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+Accept-Encoding: gzip, deflate
+Content-Type: application/json
+Host: wenxian-cloud.xjoycity.com
+Origin: http://wenxian-cloud.xjoycity.com
+Connection: keep-alive
+
+menuType=policy
+
+<> 2019-12-06T075443.400.json
+
+###
+
+POST http://wenxian-cloud.xjoycity.com/aioc-userapi/user/getUserMenus?"menuType"="policy"
+Accept: application/json, text/plain, */*
+Cache-Control: no-cache
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36
+Referer: http://wenxian-cloud.xjoycity.com/policy/bussinessMatchingPolicy.html
+Host: wenxian-cloud.xjoycity.com
+Cookie: gunsToken=1c11c1861b564b479c7232ea3d67acb3
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+Accept-Encoding: gzip, deflate
+Content-Type: application/json
+Host: wenxian-cloud.xjoycity.com
+Origin: http://wenxian-cloud.xjoycity.com
+Connection: keep-alive
+
+"menuType"="policy"
+
+<> 2019-12-06T075423.400.json
+
+###
+
+POST http://wenxian-cloud.xjoycity.com/aioc-userapi/user/getUserMenus?"menuType"="policy"
+Accept: application/json, text/plain, */*
+Cache-Control: no-cache
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36
+Referer: http://wenxian-cloud.xjoycity.com/policy/bussinessMatchingPolicy.html
+Host: wenxian-cloud.xjoycity.com
+Cookie: gunsToken=1c11c1861b564b479c7232ea3d67acb3
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+Accept-Encoding: gzip, deflate
+Content-Type: application/json
+Host: wenxian-cloud.xjoycity.com
+Origin: http://wenxian-cloud.xjoycity.com
+Connection: keep-alive
+
+"menuType"="policy"
+
+<> 2019-12-06T075421.400.json
+
+###
+
+POST http://wenxian-cloud.xjoycity.com/aioc-userapi/user/getUserMenus?"menuType"="policy"
+Accept: application/json, text/plain, */*
+Cache-Control: no-cache
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36
+Referer: http://wenxian-cloud.xjoycity.com/policy/bussinessMatchingPolicy.html
+Host: wenxian-cloud.xjoycity.com
+Cookie: gunsToken=1c11c1861b564b479c7232ea3d67acb3
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+Accept-Encoding: gzip, deflate
+Content-Type: application/json
+Host: wenxian-cloud.xjoycity.com
+Origin: http://wenxian-cloud.xjoycity.com
+Connection: keep-alive
+
+< C:/Users/zhuhui9/Desktop/FeHelper-20191206190845.json
+
+<> 2019-12-06T075118.200.json
+
+###
+
+POST http://wenxian-cloud.xjoycity.com/aioc-userapi/user/getUserMenus?"menuType"="policy"
+Accept: application/json, text/plain, */*
+Cache-Control: no-cache
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36
+Referer: http://wenxian-cloud.xjoycity.com/policy/bussinessMatchingPolicy.html
+Host: wenxian-cloud.xjoycity.com
+Cookie: gunsToken=1c11c1861b564b479c7232ea3d67acb3
+Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
+Accept-Encoding: gzip, deflate
+Content-Type: application/json
+Host: wenxian-cloud.xjoycity.com
+Origin: http://wenxian-cloud.xjoycity.com
+Connection: keep-alive
+
+<> 2019-12-06T075111.400.json
+
+###
+

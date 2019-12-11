@@ -1,3 +1,22 @@
+GET http://wenxian-cloud.xjoycity.com/policy/enterpriseSeekPolicy/historySearch?searchType=1
+Accept: */*
+Cache-Control: no-cache
+Cookie: gunsToken=6ee3a1fa0dc54f06820298b47083b460
+Content-Type: application/json
+
+<> 2019-12-11T101407.200.json
+
+###
+
+GET http://wenxian-cloud.xjoycity.com/policy/enterpriseSeekPolicy/historySearch?searchType=1
+Accept: */*
+Cache-Control: no-cache
+Cookie: gunsToken=6ee3a1fa0dc54f06820298b47083b460
+
+<> 2019-12-11T101339.200.json
+
+###
+
 POST http://wenxian-cloud.xjoycity.com/aioc-userapi/user/getUserMenus
 Accept: application/json
 Cache-Control: no-cache
@@ -917,44 +936,6 @@ Connection: keep-alive
 "menuType"="policy"
 
 <> 2019-12-06T075421.400.json
-
-###
-
-POST http://wenxian-cloud.xjoycity.com/aioc-userapi/user/getUserMenus?"menuType"="policy"
-Accept: application/json, text/plain, */*
-Cache-Control: no-cache
-User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36
-Referer: http://wenxian-cloud.xjoycity.com/policy/bussinessMatchingPolicy.html
-Host: wenxian-cloud.xjoycity.com
-Cookie: gunsToken=1c11c1861b564b479c7232ea3d67acb3
-Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
-Accept-Encoding: gzip, deflate
-Content-Type: application/json
-Host: wenxian-cloud.xjoycity.com
-Origin: http://wenxian-cloud.xjoycity.com
-Connection: keep-alive
-
-< C:/Users/zhuhui9/Desktop/FeHelper-20191206190845.json
-
-<> 2019-12-06T075118.200.json
-
-###
-
-POST http://wenxian-cloud.xjoycity.com/aioc-userapi/user/getUserMenus?"menuType"="policy"
-Accept: application/json, text/plain, */*
-Cache-Control: no-cache
-User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36
-Referer: http://wenxian-cloud.xjoycity.com/policy/bussinessMatchingPolicy.html
-Host: wenxian-cloud.xjoycity.com
-Cookie: gunsToken=1c11c1861b564b479c7232ea3d67acb3
-Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7
-Accept-Encoding: gzip, deflate
-Content-Type: application/json
-Host: wenxian-cloud.xjoycity.com
-Origin: http://wenxian-cloud.xjoycity.com
-Connection: keep-alive
-
-<> 2019-12-06T075111.400.json
 
 ###
 

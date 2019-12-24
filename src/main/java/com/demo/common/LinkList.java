@@ -5,8 +5,9 @@ public class LinkList {
     //public int val;
     public ListNode pre;
     public ListNode next;
+    public LinkList(){};
 
-    LinkList(int size){
+    public LinkList(int size){
        // this.val = val;
         this.size = size;
     }

@@ -4,6 +4,7 @@
     <list default="true" id="dfc7db6d-ac01-424d-931f-e16ee4a19008" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/demo/common/LinkList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/demo/common/LinkList.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -29,10 +30,10 @@
           <entry key="gitignore" value="2" />
           <entry key="groovy" value="5" />
           <entry key="http" value="4" />
-          <entry key="java" value="60" />
+          <entry key="java" value="65" />
           <entry key="pom" value="3" />
           <entry key="txt" value="1" />
-          <entry key="xml" value="6" />
+          <entry key="xml" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
@@ -40,10 +41,10 @@
           <entry key="CLASS" value="11" />
           <entry key="Git file" value="2" />
           <entry key="Groovy" value="2" />
-          <entry key="JAVA" value="60" />
+          <entry key="JAVA" value="65" />
           <entry key="PLAIN_TEXT" value="1" />
           <entry key="Scratch" value="7" />
-          <entry key="XML" value="9" />
+          <entry key="XML" value="10" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.vcs.git.usages">
@@ -53,23 +54,24 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="2686" />
+          <entry key="java" value="3288" />
           <entry key="txt" value="30" />
-          <entry key="xml" value="34" />
+          <entry key="xml" value="61" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="2686" />
+          <entry key="JAVA" value="3288" />
           <entry key="PLAIN_TEXT" value="30" />
-          <entry key="XML" value="34" />
+          <entry key="XML" value="61" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="2" />
           <entry key="project.open.time.37" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.open.time.53" value="1" />
+          <entry key="project.opened" value="2" />
         </counts>
       </usages-collector>
     </session>
@@ -77,69 +79,67 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/demo/common/HttpClientUtils.java">
+        <entry file="file://$PROJECT_DIR$/src/test/com/jd/test/RestTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <folding>
-                <element signature="e#0#10791#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="1110">
+              <caret line="43" column="4" selection-start-line="43" selection-start-column="4" selection-end-line="43" selection-end-column="4" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/demo/leeetcode_cn/IsSameTree.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/demo/leeetcode_cn/UcommonFromSentences.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="6" selection-start-line="6" selection-end-line="6" />
+            <state relative-caret-position="630">
+              <caret line="21" selection-start-line="6" selection-start-column="6" selection-end-line="21" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/com/jd/test/Hello.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/demo/leeetcode_cn/RandomIndex.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="7" selection-start-line="7" selection-end-line="7" />
-              <folding>
-                <element signature="e#86#87#0" expanded="true" />
-                <element signature="e#122#123#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/com/jd/test/RestDemo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="406">
-              <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#476#477#0" expanded="true" />
-                <element signature="e#548#549#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/com/jd/test/AiocTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="9" column="27" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="27" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="480">
+              <caret line="16" column="35" selection-start-line="16" selection-start-column="35" selection-end-line="16" selection-end-column="35" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/com/jd/test/RestTest.java">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="356">
-              <caret line="41" column="58" lean-forward="true" selection-start-line="41" selection-start-column="58" selection-end-line="41" selection-end-column="58" />
+            <state relative-caret-position="300">
+              <caret line="175" column="40" lean-forward="true" selection-start-line="175" selection-start-column="40" selection-end-line="175" selection-end-column="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/com/jd/test/elastaic/ElastaicTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-266">
+              <caret line="28" column="81" selection-start-line="28" selection-start-column="69" selection-end-line="28" selection-end-column="81" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/demo/common/LinkList.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="7" column="11" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://E:/java/src.zip!/java/util/AbstractCollection.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3240">
+              <caret line="133" column="20" selection-start-line="133" selection-start-column="20" selection-end-line="133" selection-end-column="20" />
             </state>
           </provider>
         </entry>
@@ -147,7 +147,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="jar://E:/apache-maven-3.5.4/NewResp/io/rest-assured/rest-assured/4.1.2/rest-assured-4.1.2-sources.jar!/io/restassured/response/ValidatableResponseOptions.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="146">
+            <state relative-caret-position="31080">
               <caret line="1066" column="27" selection-start-line="1066" selection-start-column="27" selection-end-line="1066" selection-end-column="27" />
             </state>
           </provider>
@@ -156,7 +156,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="jar://E:/apache-maven-3.5.4/NewResp/io/rest-assured/rest-assured/4.1.2/rest-assured-4.1.2-sources.jar!/io/restassured/RestAssured.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="158">
+            <state relative-caret-position="18330">
               <caret line="661" column="39" selection-start-line="661" selection-start-column="39" selection-end-line="661" selection-end-column="39" />
               <folding>
                 <element signature="e#25951#25952#0" expanded="true" />
@@ -169,17 +169,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/demo/leeetcode_cn/PrintAsZ.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="239">
-              <caret line="30" column="25" selection-start-line="30" selection-start-column="25" selection-end-line="30" selection-end-column="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="164">
-              <caret line="111" selection-start-line="111" selection-end-line="111" />
+            <state relative-caret-position="359">
+              <caret line="36" selection-start-line="36" selection-end-line="36" />
             </state>
           </provider>
         </entry>
@@ -201,6 +192,7 @@
       <find>hamcrest</find>
       <find>jayway</find>
       <find>junit</find>
+      <find>uncommonFromSentences</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -214,10 +206,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/demo/nowcode/PrintListFromTailToHead.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/demo/common/ImagePreProcess4.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/demo/nowcode/ReConstructBinaryTree.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/demo/nowcode/Main.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/demo/nowcode/NumberOf1.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/demo/huawei/CountLastWordLength.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/demo/huawei/Counts.java" />
@@ -234,7 +222,6 @@
         <option value="$PROJECT_DIR$/src/main/java/com/demo/leeetcode_cn/MyHashSet.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/demo/leeetcode_cn/MaxRotateFunction.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/demo/leeetcode_cn/DefangIPaddr.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/demo/common/LinkList.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/demo/leeetcode_cn/MyCircularDeque.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/demo/leeetcode_cn/SumSubarrayMins.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/demo/dp/Main.java" />
@@ -261,10 +248,15 @@
         <option value="$PROJECT_DIR$/src/test/SsJobApplicationTests.java" />
         <option value="$PROJECT_DIR$/src/test/restAssured/demo/DouBanTest.java" />
         <option value="$PROJECT_DIR$/src/test/com/jd/test/Hello.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/test/com/jd/test/RestDemo.java" />
         <option value="$PROJECT_DIR$/src/test/com/jd/test/AiocTest.java" />
         <option value="$PROJECT_DIR$/src/test/com/jd/test/RestTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/demo/leeetcode_cn/UcommonFromSentences.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/demo/common/LinkList.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/demo/leeetcode_cn/RandomIndex.java" />
+        <option value="$PROJECT_DIR$/src/test/com/jd/test/elastaic/elastaicTest.java" />
+        <option value="$PROJECT_DIR$/src/test/com/jd/test/elastaic/ElastaicTest.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
       </list>
     </option>
   </component>
@@ -300,10 +292,10 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-16" />
-    <option name="y" value="14" />
-    <option name="width" value="1936" />
-    <option name="height" value="1061" />
+    <option name="x" value="229" />
+    <option name="y" value="35" />
+    <option name="width" value="1470" />
+    <option name="height" value="1093" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
@@ -314,9 +306,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -363,6 +352,16 @@
               <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
               <item name="algorithm" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="jd" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="elastaic" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -392,46 +391,21 @@
             <path>
               <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
               <item name="algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="demo" type="462c0819:PsiDirectoryNode" />
+              <item name="leeetcode_cn" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
               <item name="target" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-            </path>
-            <path>
-              <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: io.rest-assured:rest-assured:4.1.2" type="70bed36:NamedLibraryElementNode" />
-            </path>
-            <path>
-              <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: io.rest-assured:rest-assured:4.1.2" type="70bed36:NamedLibraryElementNode" />
-              <item name="rest-assured-4.1.2.jar" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: io.rest-assured:rest-assured:4.1.2" type="70bed36:NamedLibraryElementNode" />
-              <item name="rest-assured-4.1.2.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="io" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: io.rest-assured:rest-assured:4.1.2" type="70bed36:NamedLibraryElementNode" />
-              <item name="rest-assured-4.1.2.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="io" type="462c0819:PsiDirectoryNode" />
-              <item name="restassured" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: io.rest-assured:rest-assured:4.1.2" type="70bed36:NamedLibraryElementNode" />
-              <item name="rest-assured-4.1.2.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="io" type="462c0819:PsiDirectoryNode" />
-              <item name="restassured" type="462c0819:PsiDirectoryNode" />
-              <item name="response" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
@@ -467,6 +441,9 @@
           <select />
         </subPane>
       </pane>
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -475,7 +452,7 @@
     <property name="add_unversioned_files" value="$PROJECT_DIR$/.idea/workspace.xml" />
     <property name="android.sdk.path" value="E:/Andriod/IDE" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1577097487965" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1577206816770" />
     <property name="last_opened_file_path" value="D:/tplatform" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -483,7 +460,7 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -576,26 +553,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.RestTest.testLogin">
+  <component name="RunManager" selected="JUnit.ElastaicTest.testGet">
     <configuration name="Hello" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.jd.test.Hello" />
       <module name="algorithm" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.jd.test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="IsSameTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.demo.leeetcode_cn.IsSameTree" />
-      <module name="algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.demo.leeetcode_cn.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -612,6 +576,22 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ElastaicTest.testGet" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jd.test.elastaic.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.jd.test.elastaic" />
+      <option name="MAIN_CLASS_NAME" value="com.jd.test.elastaic.ElastaicTest" />
+      <option name="METHOD_NAME" value="testGet" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -649,19 +629,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.IsSameTree" />
       <item itemvalue="Application.Hello" />
       <item itemvalue="JUnit.RestDemo" />
       <item itemvalue="Application.RestTest" />
       <item itemvalue="TestNG.RestTest.testLogin" />
+      <item itemvalue="JUnit.ElastaicTest.testGet" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.ElastaicTest.testGet" />
         <item itemvalue="TestNG.RestTest.testLogin" />
         <item itemvalue="Application.RestTest" />
         <item itemvalue="JUnit.RestDemo" />
         <item itemvalue="Application.Hello" />
-        <item itemvalue="Application.IsSameTree" />
       </list>
     </recent_temporary>
   </component>
@@ -684,7 +664,8 @@
       <workItem from="1574819389153" duration="4500000" />
       <workItem from="1574838369678" duration="9667000" />
       <workItem from="1575297618010" duration="1247000" />
-      <workItem from="1577064094602" duration="12079000" />
+      <workItem from="1577064094602" duration="14684000" />
+      <workItem from="1577205464365" duration="1319000" />
     </task>
     <task id="LOCAL-00001" summary="2019-11-19">
       <created>1574133362976</created>
@@ -756,13 +737,17 @@
       <option name="project" value="LOCAL" />
       <updated>1577092002448</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="add ignore file`">
+      <created>1577097520791</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1577097520791</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="RestTest_testLogin - 2019.12.23 at 18h 22m 40s.xml">
-      <configuration name="RestTest.testLogin" configurationId="TestNG" />
-    </history-entry>
     <history-entry file="RestTest_testLogin - 2019.12.23 at 18h 24m 13s.xml">
       <configuration name="RestTest.testLogin" configurationId="TestNG" />
     </history-entry>
@@ -790,9 +775,12 @@
     <history-entry file="RestTest_testLogin - 2019.12.23 at 18h 37m 48s.xml">
       <configuration name="RestTest.testLogin" configurationId="TestNG" />
     </history-entry>
+    <history-entry file="ElastaicTest_testGet - 2019.12.25 at 00h 52m 44s.xml">
+      <configuration name="ElastaicTest.testGet" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="124890000" />
+    <option name="totallyTimeSpent" value="128814000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -807,17 +795,16 @@
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.3864043" visible="true" weight="0.21351932" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.3864043" visible="true" weight="0.16148068" />
       <window_info id="Structure" order="1" sideWeight="0.61290324" side_tool="true" weight="0.21351932" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Spring" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49924356" visible="true" weight="0.3897912" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49924356" visible="true" weight="0.3259861" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.38167053" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -826,9 +813,10 @@
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.49946353" weight="0.5058005" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.72693133" side_tool="true" weight="0.18329467" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.39095128" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.24477959" />
       <window_info anchor="bottom" id="Docker" order="12" show_stripe_button="false" />
       <window_info anchor="bottom" id="REST Client" order="13" weight="0.31554523" />
+      <window_info anchor="bottom" id="Spring" order="14" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -841,7 +829,7 @@
       <window_info anchor="right" id="Maven" order="9" />
     </layout>
     <layout-to-restore>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.3864043" visible="true" weight="0.21351932" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.3864043" visible="true" weight="0.21620172" />
       <window_info id="Structure" order="1" sideWeight="0.61290324" side_tool="true" weight="0.21351932" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -850,18 +838,19 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49924356" weight="0.051044084" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49924356" weight="0.32946634" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.38167053" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49946353" weight="0.32946634" />
-      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.27306867" visible="true" weight="0.18329467" />
+      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.27306867" weight="0.18329467" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.49946353" weight="0.5058005" />
-      <window_info active="true" anchor="bottom" id="Event Log" order="10" sideWeight="0.72693133" side_tool="true" visible="true" weight="0.18329467" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.3863109" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.72693133" side_tool="true" weight="0.18329467" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.39095128" />
       <window_info anchor="bottom" id="Docker" order="12" show_stripe_button="false" />
       <window_info anchor="bottom" id="REST Client" order="13" weight="0.31554523" />
+      <window_info anchor="bottom" id="Spring" order="14" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -1024,34 +1013,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://E:/apache-maven-3.5.4/NewResp/org/apache/httpcomponents/httpclient/4.5.1/httpclient-4.5.1.jar!/org/apache/http/client/config/CookieSpecs.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="10" column="19" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/apache-maven-3.5.4/NewResp/org/apache/httpcomponents/httpclient/4.5.1/httpclient-4.5.1.jar!/org/apache/http/client/config/AuthSchemes.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="10" column="19" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/apache-maven-3.5.4/NewResp/org/apache/httpcomponents/httpclient/4.5.1/httpclient-4.5.1.jar!/org/apache/http/client/methods/HttpPut.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/apache-maven-3.5.4/NewResp/org/apache/httpcomponents/httpclient/4.5.1/httpclient-4.5.1.jar!/org/apache/http/client/methods/HttpPost.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://E:/apache-maven-3.5.4/NewResp/com/jayway/restassured/rest-assured/2.9.0/rest-assured-2.9.0-sources.jar!/com/jayway/restassured/internal/http/HTTPBuilder.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-9870">
@@ -1183,30 +1144,15 @@
       </provider>
     </entry>
     <entry file="file://$APPLICATION_CONFIG_DIR$/extensions/com.intellij.database/schema/Generate POJOs.groovy">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#43#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$APPLICATION_CONFIG_DIR$/extensions/com.intellij.database/data/extractors/CSV-Groovy.csv.groovy">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$APPLICATION_CONFIG_DIR$/extensions/com.intellij.database/data/extractors/XML-Groovy.xml.groovy">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
           <caret line="12" column="3" selection-end-line="12" selection-end-column="3" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1234,18 +1180,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/demo/restAssured/DouBanTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="690">
-          <caret line="23" column="1" lean-forward="true" selection-end-line="23" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#482#483#0" expanded="true" />
-            <element signature="e#554#555#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/demo/restAssured/DouBanTest.java" />
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="130">
@@ -1270,29 +1205,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/restAssured/DouBanTest.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="9" column="1" lean-forward="true" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#482#483#0" expanded="true" />
-            <element signature="e#554#555#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/restAssured/DouBanTest.class" />
     <entry file="file://$PROJECT_DIR$/src/main/java/com/demo/common/IoUtils.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1599">
           <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/demo/common/LinkList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -1320,23 +1237,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/restAssured/demo/DouBanTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="86">
-          <caret line="3" column="29" selection-start-line="3" selection-start-column="29" selection-end-line="3" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/SsJobApplicationTests.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="60" selection-end-line="60" />
-          <folding>
-            <element signature="e#0#2444#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/restAssured/demo/DouBanTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/SsJobApplicationTests.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/com/demo/common/HttpClientUtils.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -1364,35 +1266,19 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="164">
-          <caret line="111" selection-start-line="111" selection-end-line="111" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/demo/leeetcode_cn/PrintAsZ.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="239">
-          <caret line="30" column="25" selection-start-line="30" selection-start-column="25" selection-end-line="30" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/com/jd/test/RestDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="406">
-          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+        <state relative-caret-position="420">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#476#477#0" expanded="true" />
-            <element signature="e#548#549#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/com/jd/test/AiocTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
+        <state relative-caret-position="210">
           <caret line="9" column="27" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="27" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -1400,9 +1286,44 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/com/jd/test/RestTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1110">
+          <caret line="43" column="4" selection-start-line="43" selection-start-column="4" selection-end-line="43" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/demo/leeetcode_cn/UcommonFromSentences.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="630">
+          <caret line="21" selection-start-line="6" selection-start-column="6" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/demo/common/LinkList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="7" column="11" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/java/src.zip!/java/util/AbstractCollection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3240">
+          <caret line="133" column="20" selection-start-line="133" selection-start-column="20" selection-end-line="133" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/apache-maven-3.5.4/NewResp/io/rest-assured/rest-assured/4.1.2/rest-assured-4.1.2-sources.jar!/io/restassured/response/ValidatableResponseOptions.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="31080">
+          <caret line="1066" column="27" selection-start-line="1066" selection-start-column="27" selection-end-line="1066" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
     <entry file="jar://E:/apache-maven-3.5.4/NewResp/io/rest-assured/rest-assured/4.1.2/rest-assured-4.1.2-sources.jar!/io/restassured/RestAssured.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="158">
+        <state relative-caret-position="18330">
           <caret line="661" column="39" selection-start-line="661" selection-start-column="39" selection-end-line="661" selection-end-column="39" />
           <folding>
             <element signature="e#25951#25952#0" expanded="true" />
@@ -1411,17 +1332,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://E:/apache-maven-3.5.4/NewResp/io/rest-assured/rest-assured/4.1.2/rest-assured-4.1.2-sources.jar!/io/restassured/response/ValidatableResponseOptions.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/demo/leeetcode_cn/RandomIndex.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="146">
-          <caret line="1066" column="27" selection-start-line="1066" selection-start-column="27" selection-end-line="1066" selection-end-column="27" />
+        <state relative-caret-position="480">
+          <caret line="16" column="35" selection-start-line="16" selection-start-column="35" selection-end-line="16" selection-end-column="35" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/com/jd/test/RestTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/demo/leeetcode_cn/PrintAsZ.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="356">
-          <caret line="41" column="58" lean-forward="true" selection-start-line="41" selection-start-column="58" selection-end-line="41" selection-end-column="58" />
+        <state relative-caret-position="359">
+          <caret line="36" selection-start-line="36" selection-end-line="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/com/jd/test/elastaic/ElastaicTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-266">
+          <caret line="28" column="81" selection-start-line="28" selection-start-column="69" selection-end-line="28" selection-end-column="81" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="175" column="40" lean-forward="true" selection-start-line="175" selection-start-column="40" selection-end-line="175" selection-end-column="40" />
         </state>
       </provider>
     </entry>
@@ -1482,7 +1420,6 @@
             <option name="proportions">
               <list>
                 <option value="0.2" />
-                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>

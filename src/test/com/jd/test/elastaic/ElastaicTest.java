@@ -26,7 +26,7 @@ public class ElastaicTest {
         /**
          * 1:通过 setting对象来指定集群配置信息
          */
-        Settings settings = ImmutableSettings.settingsBuilder().put("cluster.name", "shb01").put("client.transport.sniff", true)//启动嗅探功能
+        Settings settings = ImmutableSettings.settingsBuilder().put("cluster.name", "my-application").put("client.transport.sniff", false)//启动嗅探功能
                 .build();
 
 
@@ -38,7 +38,7 @@ public class ElastaicTest {
 
         transportClient = new TransportClient(settings);
 
-        TransportAddress transportAddress = new InetSocketTransportAddress("114.67.239.153", 9200);
+        TransportAddress transportAddress = new InetSocketTransportAddress("114.67.239.153", 9300);
         transportClient.addTransportAddresses(transportAddress);
          /**
           * 3：查看集群信息

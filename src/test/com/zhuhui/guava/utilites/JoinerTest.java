@@ -1,6 +1,9 @@
 package com.zhuhui.guava.utilites;
 
 import com.google.common.base.Joiner;
+import com.google.common.collect.ImmutableListMultimap;
+import com.google.common.collect.ImmutableMap;
+import com.google.common.collect.ImmutableMultimap;
 import com.google.common.io.Files;
 import org.junit.Assert;
 import org.junit.Test;
@@ -14,6 +17,7 @@ import java.io.IOException;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
+import java.util.Map;
 import java.util.stream.Collectors;
 
 import static org.junit.Assert.assertThat;
@@ -28,6 +32,9 @@ public class JoinerTest {
             "com", "huhui", "guava", "utilites",null);
 
     private final String targetFileName = "src/test/com/zhuhui/guava/utilites/abc.txt";
+
+
+    private final Map<String,String> stringStringMap = ImmutableMap.of("hello","zhuhui","aa","2vv");
 
     @Test
     public void testJoinOnjoin(){
@@ -105,5 +112,12 @@ public class JoinerTest {
         assertThat(result.toString(),equalTo("com#huhui#guava#utilites#DefaltValue"));
 
 
+    }
+
+
+    @Test
+    public void testmap(){
+        String string = Joiner.on("#").withKeyValueSeparator("=").join(stringStringMap);
+        assertThat(string,equalTo(string));
     }
 }

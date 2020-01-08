@@ -3,7 +3,7 @@ package com.demo.leeetcode_cn.test_2018;
 public class SearchMatrix {
 
     public boolean searchMatrix(int[][] matrix, int target) {
-        if(matrix == null || matrix.length == 0){
+        if (matrix == null || matrix.length == 0) {
             return false;
         }
         //行
@@ -26,7 +26,7 @@ public class SearchMatrix {
         return false;
 
     }
-
+}
 //        for (int i =rowMatrix-1;i>=0;i-- ){
 //            for (int j =0;j<= columnMatrix-1;j++){
 //                if (matrix[i][j]==target) return true;
@@ -42,5 +42,3 @@ public class SearchMatrix {
 //        }
 
 
-    }
-}

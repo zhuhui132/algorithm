@@ -44,36 +44,6 @@ public class AddTwoNumbers {
             curr.next = new ListNode(carry);
         }
         return dummyHead.next;
-//      int value =  value(l1)+value(l2);
-//        System.out.println(value);
-//
-//      //807   7  0 8
-//
-//        ListNode result  = new ListNode(value/100);
-//        result.next = new ListNode((value-(value/100*100))/10);
-//        result.next.next = new ListNode(value%10 );
-//        return  result;
-//
-//
-//
-//      //  System.out.println(sb.toString());
-//    }
-//
-//
-//    public int value(ListNode l1){
-//        if(l1== null) return  0;
-//        int result = 0;
-//        int tem = 1;
-//        while (l1 != null){
-//
-//            int val = l1.val*tem;
-//            result = result+val;
-//            tem = tem*10;
-//            l1 = l1.next;
-//        }
-//        System.out.println(result);
-//        return result;
-//    }
-//}
+
     }
 }

@@ -7,6 +7,7 @@
     <groupId>com.java</groupId>
     <artifactId>algorithm</artifactId>
     <version>1.0-SNAPSHOT</version>
+
     <profiles>
         <profile>
             <id>jdk18</id>
@@ -15,6 +16,7 @@
                 <jdk>1.8</jdk>
             </activation>
             <properties>
+                <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
                 <maven.compiler.source>1.8</maven.compiler.source>
                 <maven.compiler.target>1.8</maven.compiler.target>
                 <maven.compiler.compilerVersion>1.8</maven.compiler.compilerVersion>
@@ -140,7 +142,7 @@
         <dependency>
             <groupId>junit</groupId>
             <artifactId>junit</artifactId>
-            <version>4.10</version>
+            <version>4.12</version>
             <scope>test</scope>
         </dependency>
 

@@ -6,7 +6,9 @@
 .idea
 *.iml
 
-.target/
+/target/
 
 
 
+/algorithm.iml
+/.idea/

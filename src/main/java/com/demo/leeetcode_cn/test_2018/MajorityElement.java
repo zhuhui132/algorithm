@@ -5,7 +5,9 @@ import java.util.HashMap;
 
 public class MajorityElement {
     public int majorityElement(int[] nums) {
-        if (null == nums || nums.length == 0) return -1;
+        if (null == nums || nums.length == 0) {
+            return -1;
+        }
         Arrays.sort(nums);
         return nums[nums.length / 2];
 
@@ -13,7 +15,9 @@ public class MajorityElement {
 
 
     public int majorityElementWithMap(int[] nums) {
-        if (null == nums || nums.length == 0) return -1;
+        if (null == nums || nums.length == 0) {
+            return -1;
+        }
         HashMap <Integer, Integer> map = new HashMap <>();
         for (int i : nums) {
             if (map.containsKey(i)) {

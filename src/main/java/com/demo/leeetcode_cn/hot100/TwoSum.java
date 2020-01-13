@@ -7,7 +7,9 @@ public class TwoSum {
     }
     int[] arrays = new int[2];
     public int[] twoSum(int[] nums, int target) {
-        if (nums.length == 0) return  arrays;
+        if (nums.length == 0) {
+            return  arrays;
+        }
 
         for (int i =0;i<nums.length ;i++){
             for (int j =i+1;j<nums.length;j++){

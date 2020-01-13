@@ -37,7 +37,9 @@ public class PrintAsZ {
 
 
     public static void traversal(TreeNode root, List <List <Integer>> res, int level) {
-        if (root == null) return;
+        if (root == null) {
+            return;
+        }
 
         if (res.size() == level) {
             res.add(new ArrayList <Integer>());

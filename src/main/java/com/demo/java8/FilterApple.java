@@ -21,8 +21,9 @@ public class FilterApple {
     public static List<Apple> findGreenApple(List<Apple> apples){
         List<Apple> list = new ArrayList<>();
         for (Apple apple:apples) {
-            if (apple.getColor().equals("green"))
-            list.add(apple);
+            if (apple.getColor().equals("green")) {
+                list.add(apple);
+            }
         }
         return list;
     }

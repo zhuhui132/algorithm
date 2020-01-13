@@ -68,7 +68,9 @@ public class SumEvenAfterQueries {
                         result.add(lists);
                         break;
                     }
-                }else break;
+                }else {
+                    break;
+                }
                 //  else break;
 
 

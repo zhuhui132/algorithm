@@ -387,6 +387,7 @@ public class RedisDemo {
     private static void publisher() {
 
         new Thread() {
+            @Override
             public void run() {
                 try {
                     Thread.sleep(1000); // 休眠一下，让订阅者有充足的时间去连上  

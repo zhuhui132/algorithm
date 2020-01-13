@@ -33,7 +33,9 @@ public class BinaryTree {
                 stack.push(root);
                 root=root.getLeft();
             }
-            if(stack.isEmpty()) break;
+            if(stack.isEmpty()) {
+                break;
+            }
             root=stack.pop();
             root=root.getRight();
         }
@@ -56,7 +58,9 @@ public class BinaryTree {
                 stack.push(root);
                 root=root.getLeft();
             }
-            if(stack.isEmpty())break;
+            if(stack.isEmpty()) {
+                break;
+            }
             root=stack.pop();
             System.out.print(root.getData()+"\t");
             root=root.getRight();
@@ -80,7 +84,9 @@ public class BinaryTree {
                 stack.push(root);
                 root=root.getLeft();
             }else{
-                if(stack.isEmpty()) return;
+                if(stack.isEmpty()) {
+                    return;
+                }
 
                 if(null==stack.lastElement().getRight()){
                     root=stack.pop();
@@ -94,10 +100,11 @@ public class BinaryTree {
                     }
                 }
 
-                if(!stack.isEmpty())
+                if(!stack.isEmpty()) {
                     root=stack.lastElement().getRight();
-                else
+                } else {
                     root=null;
+                }
             }
         }
     }
@@ -110,8 +117,9 @@ public class BinaryTree {
         while(!queue.isEmpty()){
             temp=queue.poll();
             System.out.print(temp.getData()+"\t");
-            if(null!=temp.getLeft())
+            if(null!=temp.getLeft()) {
                 queue.offer(temp.getLeft());
+            }
             if(null!=temp.getRight()){
                 queue.offer(temp.getRight());
             }

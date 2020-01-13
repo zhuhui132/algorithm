@@ -11,7 +11,9 @@ public class MaxSumDivThree {
 
 
     public int maxSumDivThree(int[] nums) {
-        if (nums.length == 0) return 0;
+        if (nums.length == 0) {
+            return 0;
+        }
         int count = 0;
         int tem1 = 0;
         int tem2 = 0;
@@ -37,7 +39,9 @@ public class MaxSumDivThree {
                         break;
                     }
                 }
-                if (tem2 != 0) break;
+                if (tem2 != 0) {
+                    break;
+                }
             }
         }
         //3n+2   2  3n+2   23%3 = 2   13568     5
@@ -60,7 +64,9 @@ public class MaxSumDivThree {
                         break;
                     }
                 }
-                if (tem2 != 0) break;
+                if (tem2 != 0) {
+                    break;
+                }
             }
         } else {
             return count;

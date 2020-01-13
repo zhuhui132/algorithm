@@ -31,7 +31,9 @@ public class PrintAsZ {
     //[[3],[9,20],[15,7]]
     public List <List <Integer>> levelOrder(TreeNode root) {
         List <List <Integer>> aList = new ArrayList <>();
-        if (root == null) return aList;
+        if (root == null) {
+            return aList;
+        }
         Queue <TreeNode> queue = new LinkedList <>();
         queue.add(root);
 
@@ -58,7 +60,9 @@ public class PrintAsZ {
     //[[3],[9,20],[15,7]]
     public List <List <Integer>> levelOrder2(TreeNode root) {
         List <List<Integer>> aList = new ArrayList <>();
-        if (root == null) return aList;
+        if (root == null) {
+            return aList;
+        }
         Queue <TreeNode> queue = new LinkedList <>();
         queue.add(root);
 

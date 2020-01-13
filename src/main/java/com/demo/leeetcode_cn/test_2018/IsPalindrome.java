@@ -16,7 +16,9 @@ public class IsPalindrome {
                 i++;
                 j--;
             }
-            else return false;
+            else {
+                return false;
+            }
 
         }
         return true;

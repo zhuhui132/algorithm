@@ -9,7 +9,9 @@ public class IncreasingTriplet {
     }
     public boolean increasingTriplet(int[] nums) {
         boolean result = false;
-        if (nums.length < 3) return result;
+        if (nums.length < 3) {
+            return result;
+        }
 
         int i = 1;
 
@@ -27,7 +29,9 @@ public class IncreasingTriplet {
 
     public boolean increasingTriplet2(int[] nums) {
         boolean result = false;
-        if (nums.length < 3) return result;
+        if (nums.length < 3) {
+            return result;
+        }
         int low = 0;
         int high = nums.length - 1;
         while (low < high) {

@@ -17,6 +17,19 @@ public class FilterApple {
         List<Apple> greenApple = findGreenApple(list);
         assert greenApple.size() == 2;
         System.out.println(greenApple);
+
+
+        List<Apple> list2 = findApple(list,new GreenAppleFilter());
+        System.out.println(list2);
+
+
+        List<Apple> list3 = findApple(list, new AppleFilter() {
+            @Override
+            public boolean filter(Apple apple) {
+                return (apple.getColor().equals("green") && apple.getWeight()>=150);
+
+            }
+        });
     }
     public static List<Apple> findGreenApple(List<Apple> apples){
         List<Apple> list = new ArrayList<>();
@@ -25,6 +38,32 @@ public class FilterApple {
             list.add(apple);
         }
         return list;
+    }
+
+
+    public static List<Apple> findApple(List<Apple> apples,AppleFilter appleFilter){
+        List<Apple> list = new ArrayList<>();
+        for (Apple a :apples) {
+            if (appleFilter.filter(a)){
+                list.add(a);
+            }
+        }
+        return list;
+    }
+
+
+
+    public interface AppleFilter{
+        boolean filter(Apple apple);
+    }
+
+
+    public static class GreenAppleFilter implements AppleFilter{
+
+        @Override
+        public boolean filter(Apple apple) {
+            return (apple.getColor().equals("green") && apple.getWeight()>=150);
+        }
     }
 
 

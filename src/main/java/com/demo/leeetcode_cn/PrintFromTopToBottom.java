@@ -29,14 +29,20 @@ public class PrintFromTopToBottom {
     // 层次遍历
     public ArrayList<Integer> printFromTopToBottom(TreeNode root) {
         ArrayList <Integer> list = new ArrayList <>();
-        if (root == null) return list;
+        if (root == null) {
+            return list;
+        }
         Deque <TreeNode> deque = new LinkedList <TreeNode>();
         deque.add(root);
         while (!deque.isEmpty()) {
             TreeNode t = deque.pop();
             list.add(t.val);
-            if (t.left != null) deque.add(t.left);
-            if (t.right != null) deque.add(t.right);
+            if (t.left != null) {
+                deque.add(t.left);
+            }
+            if (t.right != null) {
+                deque.add(t.right);
+            }
         }
 
         return list;
@@ -49,14 +55,20 @@ public class PrintFromTopToBottom {
     public ArrayList<Integer> dfs(TreeNode treeNode){
         ArrayList <Integer> list = new ArrayList <>();
         Stack<TreeNode> stack = new Stack <>();
-        if (treeNode == null) return list;
+        if (treeNode == null) {
+            return list;
+        }
 
         stack.push(treeNode);
 
         while(!stack.isEmpty()){
             TreeNode temp = stack.pop();
-            if (temp.left != null) stack.push(temp.left);
-            if (temp.right != null) stack.push(temp.right);
+            if (temp.left != null) {
+                stack.push(temp.left);
+            }
+            if (temp.right != null) {
+                stack.push(temp.right);
+            }
 
             list.add(temp.val);
         }
@@ -70,17 +82,20 @@ public class PrintFromTopToBottom {
         Stack<TreeNode> stack=new Stack<TreeNode>();
         List<Integer> list=new LinkedList<Integer>();
 
-        if(root==null)
+        if(root==null) {
             return list;
+        }
         //压入根节点
         stack.push(root);
         //然后就循环取出和压入节点，直到栈为空，结束循环
         while (!stack.isEmpty()){
             TreeNode t=stack.pop();
-            if(t.right!=null)
+            if(t.right!=null) {
                 stack.push(t.right);
-            if(t.left!=null)
+            }
+            if(t.left!=null) {
                 stack.push(t.left);
+            }
             list.add(t.val);
         }
         return  list;

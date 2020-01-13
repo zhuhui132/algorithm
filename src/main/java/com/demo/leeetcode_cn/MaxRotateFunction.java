@@ -10,7 +10,9 @@ public class MaxRotateFunction {
     }
     public int maxRotateFunction(int[] A) {
 
-        if (A.length == 0) return  0;
+        if (A.length == 0) {
+            return  0;
+        }
         //
 
         int[] b = new int[A.length+A.length-1];

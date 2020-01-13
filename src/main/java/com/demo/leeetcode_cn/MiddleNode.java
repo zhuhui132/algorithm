@@ -23,7 +23,9 @@ public class MiddleNode {
     // 123456 取 4  6/2 +1
     public ListNode middleNode(ListNode head) {
         ListNode p  = head;
-        if (head == null) return  p;
+        if (head == null) {
+            return  p;
+        }
         int count = 0;
         while(p !=null ){
             count++;

@@ -15,7 +15,9 @@ public class Main {
         System.out.println(new Main().minNumberInRotateArray(array3));
     }
     public int minNumberInRotateArray(int [] array) {
-        if (array.length <= 0) return 0;
+        if (array.length <= 0) {
+            return 0;
+        }
         Arrays.sort(array);
         return array[0];
    

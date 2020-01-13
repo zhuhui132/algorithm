@@ -23,15 +23,21 @@ public class NthUglyNumber {
     }
     public  static TreeSet<Integer> set = new TreeSet <>();
     public  static int nthUglyNumber(int n, int a, int b, int c) {
-        if(n == 0 )return  -1  ;
+        if(n == 0 ) {
+            return  -1  ;
+        }
         int[] arrays = new int[]{a,b,c};
         Arrays.sort(arrays);
         int i = 1;
         // 3  2 3 5
         while(i<=n){
              set.add(arrays[0]*i);
-             if(set.size() <= n || arrays[0]*n <=arrays[1])set.add(arrays[1]*i);
-             if(set.size() <= n || arrays[0]*n <=arrays[2]) set.add(arrays[2]*i);
+             if(set.size() <= n || arrays[0]*n <=arrays[1]) {
+                 set.add(arrays[1]*i);
+             }
+             if(set.size() <= n || arrays[0]*n <=arrays[2]) {
+                 set.add(arrays[2]*i);
+             }
             i++;
         }
         Object[] demo = set.toArray();

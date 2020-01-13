@@ -35,16 +35,18 @@ public class Array {
     }
 
     public void addLast(int key){
-        if (size == data.length)
+        if (size == data.length) {
             throw  new IllegalArgumentException(" fail ");
+        }
         data[size] = key;
         size++;
 
     }
     public void addLast(int key,int value){
         // key  和 size
-        if (key >= data.length || key < 0  || size == data.length )
+        if (key >= data.length || key < 0  || size == data.length ) {
             throw  new IllegalArgumentException(" fail ");
+        }
 
 
         for (int i = key;i<data.length;i++){

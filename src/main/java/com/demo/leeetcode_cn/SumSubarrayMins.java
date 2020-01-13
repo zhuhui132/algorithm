@@ -93,7 +93,9 @@ public class SumSubarrayMins {
 }
     public int sumSubarrayMins(int[] A) {
         long mod = 1000000007;
-        if (A.length == 0) return 0;
+        if (A.length == 0) {
+            return 0;
+        }
 
         int count = 0;
         long sum = 0;

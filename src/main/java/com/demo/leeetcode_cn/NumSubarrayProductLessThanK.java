@@ -13,13 +13,17 @@ public class NumSubarrayProductLessThanK {
         int count = 0;
         for (int i = 0;i<nums.length;i++){
             count = nums[i];
-            if (nums[i]< k) result++;
+            if (nums[i]< k) {
+                result++;
+            }
             for (int j = i+1;j<nums.length;j++){
                 count= count *nums[j];
                 if (count < k){
                     result++;
                 }
-                else break;
+                else {
+                    break;
+                }
             }
         }
         return result;

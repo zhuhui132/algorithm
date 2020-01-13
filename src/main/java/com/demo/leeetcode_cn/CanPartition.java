@@ -12,7 +12,9 @@ public class CanPartition {
         for (int i: nums) {sum = sum+i; }
 
         //奇数不可分
-        if (sum%2 ==1) return false;
+        if (sum%2 ==1) {
+            return false;
+        }
 
         // 偶数  12467
 
@@ -20,7 +22,9 @@ public class CanPartition {
         if (nums[nums.length-1]>sum-(nums[nums.length]-1)){
             return false;
         }
-        if (nums[nums.length-1]==sum-(nums[nums.length]-1)) return true;
+        if (nums[nums.length-1]==sum-(nums[nums.length]-1)) {
+            return true;
+        }
         // 2 4 6
         for (int i =0;i<nums.length-1;i++){
             // 右边
@@ -29,10 +33,14 @@ public class CanPartition {
                 // 左边减 右边
                 int index = (sum-right-right)/2;
                 for (int j: nums) {
-                    if (j == index) return true;
+                    if (j == index) {
+                        return true;
+                    }
                 }
 
-            }else return false;
+            }else {
+                return false;
+            }
         }
         return false;
     }

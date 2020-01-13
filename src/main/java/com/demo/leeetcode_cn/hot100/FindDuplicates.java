@@ -14,7 +14,9 @@ public class FindDuplicates {
             Arrays.sort(nums);
             List <Integer> list = new ArrayList <>();
             //
-            if (nums.length == 0) return list;
+            if (nums.length == 0) {
+                return list;
+            }
             int count = 0;
             for (int i = 0; i < nums.length - 1; i++) {
                 if ((nums[i] == nums[i + 1])) {

@@ -29,8 +29,11 @@ public class PrintListFromTailToHead {
         }
         ArrayList<Integer> list = new ArrayList <>();
         while (stack.size() !=0){
-            Integer i = stack.pop();
             list.add(stack.pop());
+
+        }
+        for (Integer i:list ) {
+            System.out.print(i);
 
         }
         return list;

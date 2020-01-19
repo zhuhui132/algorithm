@@ -1,4 +1,4 @@
 package com.algorithm.nowcode;
 
-public class Hello {
+public class Power {
 }

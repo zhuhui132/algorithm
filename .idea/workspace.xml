@@ -1,11 +1,66 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dfc7db6d-ac01-424d-931f-e16ee4a19008" name="Default Changelist" comment="">
+    <list default="true" id="3a428580-d10e-449a-a1f3-a3f73641adae" name="Default Changelist" comment="lastest">
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/algorithm.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2019-12-06T075421.400.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2019-12-06T075423.400.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2019-12-06T075443.400.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2019-12-06T075520.400.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2019-12-06T075521.400.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2019-12-06T075522.400.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2019-12-06T075541.200.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2019-12-06T075547.200.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2019-12-06T075842.200.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2019-12-06T075915.200.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2019-12-06T075917.200.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2019-12-06T075943.400.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2019-12-06T080002.400.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2019-12-06T080004.400.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2019-12-06T080026.200.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2019-12-06T080027.200.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2019-12-06T080055.200.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2019-12-06T080056.200.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2019-12-06T080116.200.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2019-12-06T081401.200.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2019-12-06T081408.400.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2019-12-06T081418.400.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2019-12-06T081428.200.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2019-12-06T081452.200.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2019-12-06T081457.400.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2019-12-06T081950.200.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2019-12-06T082122.400.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2019-12-06T082210.400.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2019-12-06T082213.400.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2019-12-06T082244.400.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2019-12-06T082245.400.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2019-12-06T082316.400.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2019-12-06T083134.200.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2019-12-06T083136.200.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2019-12-06T083603.200.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2019-12-06T083605.200.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2019-12-06T083609.400.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2019-12-06T083614.400.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2019-12-06T083659.400.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2019-12-06T083701-1.400.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2019-12-06T083701.400.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2019-12-06T083941.400.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2019-12-06T083942.400.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2019-12-06T084000.200.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2019-12-06T084005.200.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2019-12-06T084021.200.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2019-12-06T084024.200.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2019-12-06T084025.200.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2019-12-11T101339.200.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2019-12-11T101407.200.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/http-requests-log.http" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/jd/test/testng/TestHelloWorld.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/jd/test/testng/TestHelloWorld.class" afterDir="false" />
     </list>
-    <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,64 +68,96 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="DefaultGradleProjectSettings">
-    <option name="testRunner" value="GRADLE" />
-    <option name="delegatedBuild" value="true" />
-  </component>
-  <component name="ErrorTreeViewConfiguration">
-    <option name="hideWarnings" value="true" />
-    <option name="HIDE_WARNINGS" value="true" />
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
   </component>
   <component name="FUSProjectUsageTrigger">
     <session id="-235700558">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="23" />
+          <entry key="project.open.time.104" value="1" />
+          <entry key="project.open.time.120" value="1" />
+          <entry key="project.open.time.18" value="1" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.open.time.41" value="1" />
+          <entry key="project.open.time.43" value="1" />
+          <entry key="project.open.time.44" value="1" />
+          <entry key="project.open.time.45" value="1" />
+          <entry key="project.open.time.46" value="3" />
+          <entry key="project.open.time.47" value="3" />
+          <entry key="project.open.time.48" value="2" />
+          <entry key="project.open.time.49" value="2" />
+          <entry key="project.open.time.50" value="3" />
+          <entry key="project.open.time.51" value="1" />
+          <entry key="project.open.time.52" value="1" />
+          <entry key="project.open.time.54" value="2" />
+          <entry key="project.open.time.55" value="1" />
+          <entry key="project.open.time.56" value="1" />
+          <entry key="project.open.time.57" value="1" />
+          <entry key="project.open.time.58" value="1" />
+          <entry key="project.open.time.61" value="2" />
+          <entry key="project.open.time.72" value="2" />
+          <entry key="project.open.time.76" value="1" />
+          <entry key="project.open.time.77" value="1" />
+          <entry key="project.open.time.79" value="1" />
+          <entry key="project.open.time.87" value="1" />
+          <entry key="project.open.time.91" value="1" />
+          <entry key="project.open.time.99" value="1" />
+          <entry key="project.opened" value="40" />
+        </counts>
+      </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="class" value="11" />
-          <entry key="gitignore" value="4" />
-          <entry key="groovy" value="5" />
-          <entry key="http" value="4" />
-          <entry key="java" value="65" />
-          <entry key="pom" value="3" />
-          <entry key="txt" value="1" />
-          <entry key="xml" value="8" />
+          <entry key="gitignore" value="2" />
+          <entry key="java" value="126" />
+          <entry key="js" value="1" />
+          <entry key="kt" value="1" />
+          <entry key="txt" value="2" />
+          <entry key="xml" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="CLASS" value="11" />
-          <entry key="Git file" value="4" />
-          <entry key="Groovy" value="2" />
-          <entry key="JAVA" value="65" />
-          <entry key="PLAIN_TEXT" value="1" />
-          <entry key="Scratch" value="7" />
-          <entry key="XML" value="11" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.vcs.git.usages">
-        <counts>
-          <entry key="git.branch.checkout.local" value="1" />
+          <entry key="Git file" value="2" />
+          <entry key="JAVA" value="126" />
+          <entry key="JavaScript" value="1" />
+          <entry key="Kotlin" value="1" />
+          <entry key="PLAIN_TEXT" value="2" />
+          <entry key="XML" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="3288" />
-          <entry key="txt" value="30" />
-          <entry key="xml" value="61" />
+          <entry key="gitignore" value="11" />
+          <entry key="java" value="12910" />
+          <entry key="txt" value="31" />
+          <entry key="xml" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="3288" />
-          <entry key="PLAIN_TEXT" value="30" />
-          <entry key="XML" value="61" />
+          <entry key="Git file" value="11" />
+          <entry key="JAVA" value="12910" />
+          <entry key="PLAIN_TEXT" value="31" />
+          <entry key="XML" value="7" />
         </counts>
       </usages-collector>
-      <usages-collector id="statistics.lifecycle.project">
+      <usages-collector id="statistics.vcs.git.usages">
         <counts>
-          <entry key="project.closed" value="2" />
-          <entry key="project.open.time.37" value="1" />
-          <entry key="project.open.time.53" value="1" />
-          <entry key="project.opened" value="2" />
+          <entry key="git.branch.checkout.remote" value="1" />
+          <entry key="git.branch.rename" value="1" />
         </counts>
       </usages-collector>
     </session>
@@ -78,98 +165,56 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/demo/leeetcode_cn/RandomIndex.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/algorithm/again/PrintFromTopToBottom.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="480">
-              <caret line="16" column="35" selection-start-line="16" selection-start-column="35" selection-end-line="16" selection-end-column="35" />
+            <state relative-caret-position="496">
+              <caret line="21" column="9" selection-start-line="16" selection-start-column="32" selection-end-line="21" selection-end-column="9" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="22" column="14" lean-forward="true" selection-start-line="22" selection-start-column="14" selection-end-line="22" selection-end-column="14" />
-            </state>
-          </provider>
+        <entry file="file://$PROJECT_DIR$/.idea/vcs.xml">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="5" column="5" lean-forward="true" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
+            <state relative-caret-position="403">
+              <caret line="13" column="7" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/com/jd/test/elastaic/ElastaicTest.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/algorithm/nowcode/PrintAsZ.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-266">
-              <caret line="28" column="81" selection-start-line="28" selection-start-column="69" selection-end-line="28" selection-end-column="81" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="1581">
+              <caret line="55" column="17" selection-start-line="55" selection-start-column="17" selection-end-line="55" selection-end-column="17" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/demo/common/LinkList.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/algorithm/leeetcode_cn/PrintZeroEvenOdd.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/algorithm/again/PrintListFromTailToHead.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="7" column="11" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
+            <state relative-caret-position="217">
+              <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="jar://E:/java/src.zip!/java/util/AbstractCollection.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/algorithm/leeetcode_cn/BinaryTreeNode/BinaryTree.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3240">
-              <caret line="133" column="20" selection-start-line="133" selection-start-column="20" selection-end-line="133" selection-end-column="20" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://E:/apache-maven-3.5.4/NewResp/io/rest-assured/rest-assured/4.1.2/rest-assured-4.1.2-sources.jar!/io/restassured/response/ValidatableResponseOptions.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="31080">
-              <caret line="1066" column="27" selection-start-line="1066" selection-start-column="27" selection-end-line="1066" selection-end-column="27" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://E:/apache-maven-3.5.4/NewResp/io/rest-assured/rest-assured/4.1.2/rest-assured-4.1.2-sources.jar!/io/restassured/RestAssured.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="18330">
-              <caret line="661" column="39" selection-start-line="661" selection-start-column="39" selection-end-line="661" selection-end-column="39" />
-              <folding>
-                <element signature="e#25951#25952#0" expanded="true" />
-                <element signature="e#26025#26026#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/demo/leeetcode_cn/PrintAsZ.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="359">
-              <caret line="36" selection-start-line="36" selection-end-line="36" />
+            <state relative-caret-position="496">
+              <caret line="18" column="46" selection-start-line="18" selection-start-column="46" selection-end-line="18" selection-end-column="46" />
             </state>
           </provider>
         </entry>
@@ -179,82 +224,93 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Kotlin File" />
+        <option value="JavaScript File" />
         <option value="Class" />
       </list>
     </option>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>size</find>
-      <find>reverseList</find>
-      <find>rest-assured</find>
-      <find>hamcrest</find>
-      <find>jayway</find>
-      <find>junit</find>
-      <find>uncommonFromSentences</find>
+      <find>testng</find>
+      <find>Z</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="company" />
+        <entry key="$PROJECT_DIR$" value="masterlocal" />
+      </map>
+    </option>
+  </component>
+  <component name="GithubProjectSettings">
+    <option name="CREATE_PULL_REQUEST_DEFAULT_BRANCH" value="master" />
+    <option name="CREATE_PULL_REQUEST_DEFAULT_REPO_USER" value="zhuhui132" />
+    <option name="CREATE_PULL_REQUEST_DEFAULT_REPO_NAME" value="algorithm" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="D:/tplatform" value="PREVIEW" />
+        <entry key="E:/ecc-b2b-test" value="PREVIEW" />
+        <entry key="E:/tplatform" value="PREVIEW" />
       </map>
     </option>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/demo/nowcode/NumberOf1.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/demo/huawei/CountLastWordLength.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/demo/huawei/Counts.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/demo/leeetcode_cn/ArrayDemo.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/demo/leeetcode_cn/Solution.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/demo/leeetcode_cn/NthUglyNumber.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/demo/leeetcode_cn/IsSameTree.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/demo/leeetcode_cn/IsSymmetric.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/demo/leeetcode_cn/PrintFromTopToBottom.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/demo/leeetcode_cn/LevelOrder.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/demo/leeetcode_cn/PrintAsZ.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/demo/leeetcode_cn/SumEvenAfterQueries.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/demo/leeetcode_cn/MaxSumDivThree.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/demo/leeetcode_cn/MyHashSet.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/demo/leeetcode_cn/MaxRotateFunction.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/demo/leeetcode_cn/DefangIPaddr.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/demo/leeetcode_cn/MyCircularDeque.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/demo/leeetcode_cn/SumSubarrayMins.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/demo/dp/Main.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/demo/dp/TestArray.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/demo/dp/Array.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/demo/leeetcode_cn/MiddleNode.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/demo/leeetcode_cn/NumSubarrayProductLessThanK.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/demo/leeetcode_cn/OddEvenList.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/demo/leeetcode_cn/InsertIntoBST.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/demo/leeetcode_cn/ValidSquare.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/demo/leeetcode_cn/ReverseList.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/demo/redis/RedisConfig.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/demo/redis/Employee.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/demo/redis/SerializeDemo.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/demo/redis/RedisUtil.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/demo/redis/Test.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/demo/utils/HttpsUtil.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/demo/utils/SSLUtil.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/demo/utils/SsJobApplicationTests.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/demo/leeetcode_cn/Multiply.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/demo/restAssured/DouBanTest.java" />
-        <option value="$PROJECT_DIR$/src/test/restAssured/DouBanTest.java" />
-        <option value="$PROJECT_DIR$/src/test/SsJobApplicationTests.java" />
-        <option value="$PROJECT_DIR$/src/test/restAssured/demo/DouBanTest.java" />
-        <option value="$PROJECT_DIR$/src/test/com/jd/test/Hello.java" />
-        <option value="$PROJECT_DIR$/src/test/com/jd/test/RestDemo.java" />
-        <option value="$PROJECT_DIR$/src/test/com/jd/test/AiocTest.java" />
-        <option value="$PROJECT_DIR$/src/test/com/jd/test/RestTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/demo/leeetcode_cn/UcommonFromSentences.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/demo/common/LinkList.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/demo/leeetcode_cn/RandomIndex.java" />
-        <option value="$PROJECT_DIR$/src/test/com/jd/test/elastaic/elastaicTest.java" />
-        <option value="$PROJECT_DIR$/src/test/com/jd/test/elastaic/ElastaicTest.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/algorithm/again/GetRow.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/algorithm/again/yanghuisanjiao.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/algorithm/again/Yanghuisanjiao.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/algorithm/again/Merge.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/algorithm/again/MaxProfit.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/algorithm/again/IsSubsequence.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/algorithm/again/LemonadeChange.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/algorithm/again/Mirror.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/algorithm/again/MinStack.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/algorithm/again/IsPopOrder.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/algorithm/again/PrintFromTopToBottom.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/algorithm/again/Convert.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/algorithm/again/Sum90.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/algorithm/again/Cs.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/algorithm/leeetcode_cn/leetcode/editor/cn/[110]平衡二叉树.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/algorithm/again/MaxSubArray.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/algorithm/dp/dp.txt" />
+        <option value="$PROJECT_DIR$/src/main/java/com/algorithm/again/FindNumsAppearOnce.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/algorithm/again/IsBalanced_Solution.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/algorithm/again/TreeDepth.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/algorithm/again/FindFirstCommonNode.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/algorithm/leeetcode_cn/test_2018/Once.java" />
+        <option value="$PROJECT_DIR$/src/test/com/js/demo.js" />
+        <option value="$PROJECT_DIR$/src/main/java/com/algorithm/leeetcode_cn/may/MergeTwoLists.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/algorithm/leeetcode_cn/may/MaxSubArray.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/algorithm/leeetcode_cn/test_2018/MaxProduct.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/algorithm/leeetcode_cn/UniqueOccurrences.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/algorithm/leeetcode_cn/CorpFlightBookings.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/algorithm/leeetcode_cn/test_2018/AddNegabinary.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/algorithm/leeetcode_cn/test_2018/MaxDepth.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/algorithm/leeetcode_cn/test_2018/LargestSumOfAverages.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/algorithm/common/LinkList.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/algorithm/leeetcode_cn/test_2018/NextLargerNodes.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/algorithm/leeetcode_cn/goldreview/DeleteNode.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/algorithm/leeetcode_cn/goldreview/KthLargest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/algorithm/leeetcode_cn/june/ThreeSum.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/algorithm/leeetcode_cn/june/SortByBits.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/algorithm/leeetcode_cn/june/LargeGroupPositions.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/algorithm/leeetcode_cn/june/LongestCommonPrefix.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/algorithm/leeetcode_cn/june/MagicDictionary.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/algorithm/leeetcode_cn/PrintZeroEvenOdd.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/algorithm/leeetcode_cn/BinaryTreeNode/LevelOrder.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/algorithm/leeetcode_cn/june/RunningSum.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/algorithm/leeetcode_cn/june/IslandPerimeter.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/algorithm/leeetcode_cn/june/MaxArea.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/algorithm/leeetcode_cn/june/KidsWithCandies.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/algorithm/leeetcode_cn/june/GetFolderNames.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/algorithm/leeetcode_cn/june/ThreeSumClosest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/algorithm/leeetcode_cn/june/SortedListToBST.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/algorithm/leeetcode_cn/june/PatternMatching.java" />
         <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
@@ -274,27 +330,11 @@
       </MavenGeneralSettings>
     </option>
   </component>
-  <component name="MavenProjectNavigator">
-    <treeState>
-      <expand>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="algorithm" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="algorithm" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
-        </path>
-      </expand>
-      <select />
-    </treeState>
-  </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="2097" />
-    <option name="y" value="134" />
-    <option name="width" value="1470" />
-    <option name="height" value="1093" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="1912" />
+    <option name="y" value="-205" />
+    <option name="width" value="2576" />
+    <option name="height" value="1416" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
@@ -305,6 +345,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -314,151 +357,32 @@
             </path>
             <path>
               <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name=".idea" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="target" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-            </path>
-            <path>
-              <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
-            </path>
-            <path>
-              <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
-              <item name="Extensions" type="d62648e6:ScratchProjectViewPane$MyRootNode" />
-            </path>
-            <path>
-              <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
-              <item name="Extensions" type="d62648e6:ScratchProjectViewPane$MyRootNode" />
-              <item name="com.intellij.database" type="1e004dc1:ScratchProjectViewPane$MyRootNode$1$1" />
-            </path>
-            <path>
-              <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
-              <item name="Extensions" type="d62648e6:ScratchProjectViewPane$MyRootNode" />
-              <item name="com.intellij.database" type="1e004dc1:ScratchProjectViewPane$MyRootNode$1$1" />
-              <item name="data" type="1e004dc1:ScratchProjectViewPane$MyRootNode$1$1" />
-            </path>
-            <path>
-              <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
-              <item name="Extensions" type="d62648e6:ScratchProjectViewPane$MyRootNode" />
-              <item name="com.intellij.database" type="1e004dc1:ScratchProjectViewPane$MyRootNode$1$1" />
-              <item name="data" type="1e004dc1:ScratchProjectViewPane$MyRootNode$1$1" />
-              <item name="extractors" type="1e004dc1:ScratchProjectViewPane$MyRootNode$1$1" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SearchEverywhereHistoryKey" value="Print&#9;PSI&#9;JAVA://com.algorithm.nowcode.PrintAsZ#print&#10;maxProduct&#9;PSI&#9;JAVA://com.algorithm.leeetcode_cn.test_2018.MaxProduct&#10;once&#9;FILE&#9;file://D:/algorithm/src/main/java/com/algorithm/leeetcode_cn/test_2018/Once.java" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="add_unversioned_files" value="$PROJECT_DIR$/.idea/workspace.xml" />
     <property name="android.sdk.path" value="E:/Andriod/IDE" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1577207066936" />
-    <property name="last_opened_file_path" value="D:/tplatform" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1593321310923" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\algorithm\src\test\restAssured\demo" />
+      <recent name="D:\algorithm\src\test\com\testng" />
     </key>
-  </component>
-  <component name="RestClientSettings">
-    <option name="REQUEST_HISTORY">
-      <list>
-        <RestClientRequest>
-          <option name="httpMethod" value="GET" />
-          <option name="urlBase" value="http://wenxian-cloud.xjoycity.com" />
-          <option name="urlPath" value="/policy/enterpriseSeekPolicy/historySearch" />
-          <option name="headers">
-            <list>
-              <KeyValuePair>
-                <option name="key" value="Accept" />
-                <option name="value" value="*/*" />
-              </KeyValuePair>
-              <KeyValuePair>
-                <option name="key" value="Cache-Control" />
-                <option name="value" value="no-cache" />
-              </KeyValuePair>
-              <KeyValuePair>
-                <option name="key" value="Cookie" />
-                <option name="value" value="gunsToken=6ee3a1fa0dc54f06820298b47083b460" />
-              </KeyValuePair>
-              <KeyValuePair>
-                <option name="key" value="Content-Type" />
-                <option name="value" value="application/json" />
-              </KeyValuePair>
-            </list>
-          </option>
-          <option name="parameters">
-            <list>
-              <KeyValuePair>
-                <option name="key" value="searchType" />
-                <option name="value" value="1" />
-              </KeyValuePair>
-            </list>
-          </option>
-          <option name="parametersEnabled" value="true" />
-          <option name="textToSend" value="" />
-          <option name="filesToSend" value="" />
-        </RestClientRequest>
-        <RestClientRequest>
-          <option name="httpMethod" value="GET" />
-          <option name="urlBase" value="http://wenxian-cloud.xjoycity.com" />
-          <option name="urlPath" value="/policy/enterpriseSeekPolicy/historySearch" />
-          <option name="headers">
-            <list>
-              <KeyValuePair>
-                <option name="key" value="Accept" />
-                <option name="value" value="*/*" />
-              </KeyValuePair>
-              <KeyValuePair>
-                <option name="key" value="Cache-Control" />
-                <option name="value" value="no-cache" />
-              </KeyValuePair>
-              <KeyValuePair>
-                <option name="key" value="Cookie" />
-                <option name="value" value="gunsToken=6ee3a1fa0dc54f06820298b47083b460" />
-              </KeyValuePair>
-            </list>
-          </option>
-          <option name="parameters">
-            <list>
-              <KeyValuePair>
-                <option name="key" value="searchType" />
-                <option name="value" value="1" />
-              </KeyValuePair>
-            </list>
-          </option>
-          <option name="parametersEnabled" value="true" />
-          <option name="textToSend" value="" />
-          <option name="filesToSend" value="" />
-        </RestClientRequest>
-      </list>
-    </option>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -472,13 +396,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.ElastaicTest.testGet">
-    <configuration name="Hello" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.jd.test.Hello" />
+  <component name="RunManager" selected="Application.ThreeSumClosest">
+    <configuration name="IslandPerimeter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.algorithm.leeetcode_cn.june.IslandPerimeter" />
       <module name="algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.jd.test.*" />
+          <option name="PATTERN" value="com.algorithm.leeetcode_cn.june.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -486,12 +410,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RestTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.jd.test.RestTest" />
+    <configuration name="LevelOrder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.algorithm.leeetcode_cn.BinaryTreeNode.LevelOrder" />
       <module name="algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.jd.test.*" />
+          <option name="PATTERN" value="com.algorithm.leeetcode_cn.BinaryTreeNode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -499,68 +423,59 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ElastaicTest.testGet" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="LongestCommonPrefix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.algorithm.leeetcode_cn.june.LongestCommonPrefix" />
       <module name="algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.jd.test.elastaic.*" />
+          <option name="PATTERN" value="com.algorithm.leeetcode_cn.june.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.jd.test.elastaic" />
-      <option name="MAIN_CLASS_NAME" value="com.jd.test.elastaic.ElastaicTest" />
-      <option name="METHOD_NAME" value="testGet" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RestDemo" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="SortByBits" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.algorithm.leeetcode_cn.june.SortByBits" />
       <module name="algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.jd.test.*" />
+          <option name="PATTERN" value="com.algorithm.leeetcode_cn.june.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.jd.test" />
-      <option name="MAIN_CLASS_NAME" value="com.jd.test.RestDemo" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RestTest.testLogin" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="ThreeSumClosest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.algorithm.leeetcode_cn.june.ThreeSumClosest" />
       <module name="algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.jd.test.*" />
+          <option name="PATTERN" value="com.algorithm.leeetcode_cn.june.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.jd.test" />
-      <option name="MAIN_CLASS_NAME" value="com.jd.test.RestTest" />
-      <option name="METHOD_NAME" value="testLogin" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Hello" />
-      <item itemvalue="JUnit.RestDemo" />
-      <item itemvalue="Application.RestTest" />
-      <item itemvalue="TestNG.RestTest.testLogin" />
-      <item itemvalue="JUnit.ElastaicTest.testGet" />
+      <item itemvalue="Application.SortByBits" />
+      <item itemvalue="Application.LongestCommonPrefix" />
+      <item itemvalue="Application.LevelOrder" />
+      <item itemvalue="Application.IslandPerimeter" />
+      <item itemvalue="Application.ThreeSumClosest" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.ElastaicTest.testGet" />
-        <item itemvalue="TestNG.RestTest.testLogin" />
-        <item itemvalue="Application.RestTest" />
-        <item itemvalue="JUnit.RestDemo" />
-        <item itemvalue="Application.Hello" />
+        <item itemvalue="Application.ThreeSumClosest" />
+        <item itemvalue="Application.IslandPerimeter" />
+        <item itemvalue="Application.LevelOrder" />
+        <item itemvalue="Application.LongestCommonPrefix" />
+        <item itemvalue="Application.SortByBits" />
       </list>
     </recent_temporary>
   </component>
@@ -569,167 +484,92 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="dfc7db6d-ac01-424d-931f-e16ee4a19008" name="Default Changelist" comment="" />
-      <created>1573454530178</created>
+      <changelist id="3a428580-d10e-449a-a1f3-a3f73641adae" name="Default Changelist" comment="" />
+      <created>1581931601865</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1573454530178</updated>
-      <workItem from="1573454549700" duration="4515000" />
-      <workItem from="1573460221746" duration="1708000" />
-      <workItem from="1574127778068" duration="18699000" />
-      <workItem from="1574305767898" duration="22246000" />
-      <workItem from="1574674609212" duration="6729000" />
-      <workItem from="1574739107995" duration="10407000" />
-      <workItem from="1574819389153" duration="4500000" />
-      <workItem from="1574838369678" duration="9667000" />
-      <workItem from="1575297618010" duration="1247000" />
-      <workItem from="1577064094602" duration="14684000" />
-      <workItem from="1577205464365" duration="1569000" />
+      <updated>1581931601865</updated>
+      <workItem from="1581931611874" duration="4442000" />
+      <workItem from="1582509285873" duration="591000" />
+      <workItem from="1583199845614" duration="1687000" />
+      <workItem from="1583721723599" duration="3110000" />
+      <workItem from="1585291101736" duration="1191000" />
+      <workItem from="1586001177102" duration="431000" />
+      <workItem from="1586103998904" duration="729000" />
+      <workItem from="1586135933809" duration="10268000" />
+      <workItem from="1586154058831" duration="292000" />
+      <workItem from="1586154431960" duration="7886000" />
+      <workItem from="1586310285513" duration="2834000" />
+      <workItem from="1586397377438" duration="4159000" />
+      <workItem from="1586498641756" duration="1179000" />
+      <workItem from="1586659064882" duration="9933000" />
+      <workItem from="1586914965444" duration="670000" />
+      <workItem from="1586915810910" duration="903000" />
+      <workItem from="1586916810176" duration="4412000" />
+      <workItem from="1587002316341" duration="1288000" />
+      <workItem from="1587006945677" duration="4895000" />
+      <workItem from="1587090432075" duration="5712000" />
+      <workItem from="1587456079453" duration="1757000" />
+      <workItem from="1588148749673" duration="600000" />
+      <workItem from="1588854883591" duration="582000" />
+      <workItem from="1588905390596" duration="242000" />
+      <workItem from="1588993262416" duration="1883000" />
+      <workItem from="1589176164883" duration="3000" />
+      <workItem from="1589184261027" duration="1528000" />
+      <workItem from="1590550267508" duration="5192000" />
+      <workItem from="1590911918249" duration="8786000" />
+      <workItem from="1591408210407" duration="4895000" />
+      <workItem from="1591925054199" duration="3630000" />
+      <workItem from="1592186761588" duration="4057000" />
+      <workItem from="1592208061565" duration="2376000" />
+      <workItem from="1592443589312" duration="8811000" />
+      <workItem from="1592534217414" duration="40000" />
+      <workItem from="1592555551764" duration="4331000" />
+      <workItem from="1592793031279" duration="927000" />
+      <workItem from="1592795200543" duration="959000" />
+      <workItem from="1592976265606" duration="1592000" />
+      <workItem from="1593319999884" duration="962000" />
     </task>
-    <task id="LOCAL-00001" summary="2019-11-19">
-      <created>1574133362976</created>
+    <task id="LOCAL-00001" summary="zhuhui">
+      <created>1586686606692</created>
       <option name="number" value="00001" />
       <option name="presentableId" value="LOCAL-00001" />
       <option name="project" value="LOCAL" />
-      <updated>1574133362976</updated>
+      <updated>1586686606692</updated>
     </task>
-    <task id="LOCAL-00002" summary="2019-11-19">
-      <created>1574133544650</created>
+    <task id="LOCAL-00002" summary="lastest">
+      <created>1590914755668</created>
       <option name="number" value="00002" />
       <option name="presentableId" value="LOCAL-00002" />
       <option name="project" value="LOCAL" />
-      <updated>1574133544650</updated>
+      <updated>1590914755668</updated>
     </task>
-    <task id="LOCAL-00003" summary="2019-11-19">
-      <created>1574133710030</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1574133710030</updated>
-    </task>
-    <task id="LOCAL-00004" summary="2019-11-20">
-      <created>1574233977964</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1574233977966</updated>
-    </task>
-    <task id="LOCAL-00005" summary="redis demo">
-      <created>1576072384253</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1576072384253</updated>
-    </task>
-    <task id="LOCAL-00006" summary="redis demo">
-      <created>1576072429491</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1576072429491</updated>
-    </task>
-    <task id="LOCAL-00007" summary="redis demo">
-      <created>1576072530460</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1576072530460</updated>
-    </task>
-    <task id="LOCAL-00008" summary="add ignore file">
-      <created>1577064254181</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1577064254181</updated>
-    </task>
-    <task id="LOCAL-00009" summary="add ignore file`">
-      <created>1577091412229</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1577091412229</updated>
-    </task>
-    <task id="LOCAL-00010" summary="add ignore file`">
-      <created>1577092002447</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1577092002448</updated>
-    </task>
-    <task id="LOCAL-00011" summary="add ignore file`">
-      <created>1577097520791</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1577097520791</updated>
-    </task>
-    <task id="LOCAL-00012" summary="add ignore file`">
-      <created>1577206851758</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1577206851758</updated>
-    </task>
-    <task id="LOCAL-00013" summary="add ignore file`">
-      <created>1577207005089</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1577207005089</updated>
-    </task>
-    <option name="localTasksCounter" value="14" />
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="RestTest_testLogin - 2019.12.23 at 18h 24m 13s.xml">
-      <configuration name="RestTest.testLogin" configurationId="TestNG" />
+    <history-entry file="TestHelloWorld_testRadomEmal - 2020.04.06 at 15h 05m 11s.xml">
+      <configuration name="TestHelloWorld.testRadomEmal" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="RestTest_testLogin - 2019.12.23 at 18h 24m 57s.xml">
-      <configuration name="RestTest.testLogin" configurationId="TestNG" />
+    <history-entry file="TestDBConnection - 2020.04.06 at 15h 07m 00s.xml">
+      <configuration name="TestDBConnection" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="RestTest_testLogin - 2019.12.23 at 18h 29m 56s.xml">
-      <configuration name="RestTest.testLogin" configurationId="TestNG" />
+    <history-entry file="D__algorithm_src_test_com_testng_testng_xml - 2020.04.06 at 15h 12m 09s.xml">
+      <configuration name="D:/algorithm/src/test/com/testng/testng.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="RestTest_testLogin - 2019.12.23 at 18h 30m 24s.xml">
-      <configuration name="RestTest.testLogin" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="RestTest_testLogin - 2019.12.23 at 18h 33m 01s.xml">
-      <configuration name="RestTest.testLogin" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="RestTest_testLogin - 2019.12.23 at 18h 34m 27s.xml">
-      <configuration name="RestTest.testLogin" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="RestTest_testLogin - 2019.12.23 at 18h 35m 27s.xml">
-      <configuration name="RestTest.testLogin" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="RestTest_testLogin - 2019.12.23 at 18h 36m 37s.xml">
-      <configuration name="RestTest.testLogin" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="RestTest_testLogin - 2019.12.23 at 18h 37m 48s.xml">
-      <configuration name="RestTest.testLogin" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="ElastaicTest_testGet - 2019.12.25 at 00h 52m 44s.xml">
-      <configuration name="ElastaicTest.testGet" configurationId="JUnit" />
+    <history-entry file="TestHelloWorld_testRadomEmal - 2020.04.06 at 15h 12m 43s.xml">
+      <configuration name="TestHelloWorld.testRadomEmal" configurationId="TestNG" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="129064000" />
-  </component>
-  <component name="TodoView">
-    <todo-panel id="selected-file">
-      <is-autoscroll-to-source value="true" />
-    </todo-panel>
-    <todo-panel id="all">
-      <are-packages-shown value="true" />
-      <is-autoscroll-to-source value="true" />
-    </todo-panel>
+    <option name="totallyTimeSpent" value="119765000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="2097" y="134" width="1470" height="1093" extended-state="0" />
+    <frame x="1912" y="-205" width="2576" height="1416" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.3864043" visible="true" weight="0.21530758" />
-      <window_info id="Structure" order="1" sideWeight="0.61290324" side_tool="true" weight="0.21351932" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2671875" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
@@ -737,33 +577,31 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49924356" visible="true" weight="0.25139043" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.38167053" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.63854164" weight="0.2832" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.33667085" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49946353" weight="0.32946634" />
-      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.27306867" weight="0.18329467" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32339954" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.49946353" weight="0.5058005" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.72693133" side_tool="true" weight="0.18329467" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.24477959" />
-      <window_info anchor="bottom" id="Docker" order="12" show_stripe_button="false" />
-      <window_info anchor="bottom" id="REST Client" order="13" weight="0.31554523" />
-      <window_info anchor="bottom" id="Spring" order="14" />
+      <window_info anchor="bottom" id="Spring" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.6253061" weight="0.20733249" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.37469387" side_tool="true" visible="true" weight="0.2584" />
+      <window_info active="true" anchor="bottom" id="Messages" order="12" sideWeight="0.4987755" visible="true" weight="0.2896" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Database" order="5" weight="0.3296875" />
       <window_info anchor="right" id="Theme Preview" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
-      <window_info anchor="right" id="Maven Projects" order="8" weight="0.3299356" />
-      <window_info anchor="right" id="Maven" order="9" />
+      <window_info anchor="right" id="Maven Projects" order="8" />
+      <window_info active="true" anchor="right" id="leetcode" order="9" side_tool="true" visible="true" weight="0.3296875" />
     </layout>
     <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.3864043" visible="true" weight="0.21620172" />
-      <window_info id="Structure" order="1" sideWeight="0.61290324" side_tool="true" weight="0.21351932" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.37389597" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
@@ -771,525 +609,489 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49924356" weight="0.32946634" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.38167053" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.63854164" weight="0.2832" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.33667085" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49946353" weight="0.32946634" />
-      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.27306867" weight="0.18329467" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32339954" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.49946353" weight="0.5058005" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.72693133" side_tool="true" weight="0.18329467" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.39095128" />
-      <window_info anchor="bottom" id="Docker" order="12" show_stripe_button="false" />
-      <window_info anchor="bottom" id="REST Client" order="13" weight="0.31554523" />
-      <window_info anchor="bottom" id="Spring" order="14" />
+      <window_info anchor="bottom" id="Spring" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.6253061" weight="0.20733249" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.37469387" side_tool="true" weight="0.20733249" />
+      <window_info anchor="bottom" id="Messages" order="12" sideWeight="0.4987755" weight="0.29036295" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Database" order="5" weight="0.3296875" />
       <window_info anchor="right" id="Theme Preview" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
-      <window_info anchor="right" id="Maven Projects" order="8" weight="0.3299356" />
-      <window_info anchor="right" id="Maven" order="9" />
+      <window_info anchor="right" id="Maven Projects" order="8" />
+      <window_info active="true" anchor="right" id="leetcode" order="9" side_tool="true" visible="true" weight="0.3296875" />
     </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="1">
-          <value>
-            <State>
-              <option name="RECENTLY_FILTERED_USER_GROUPS">
-                <collection />
-              </option>
-              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
-                <collection />
-              </option>
-              <option name="COLUMN_ORDER">
-                <list>
-                  <option value="0" />
-                  <option value="1" />
-                  <option value="2" />
-                  <option value="3" />
-                </list>
-              </option>
-            </State>
-          </value>
-        </entry>
-        <entry key="2">
-          <value>
-            <State>
-              <option name="RECENTLY_FILTERED_USER_GROUPS">
-                <collection />
-              </option>
-              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
-                <collection />
-              </option>
-              <option name="COLUMN_ORDER">
-                <list>
-                  <option value="0" />
-                  <option value="1" />
-                  <option value="2" />
-                  <option value="3" />
-                </list>
-              </option>
-            </State>
-          </value>
-        </entry>
-        <entry key="3">
-          <value>
-            <State>
-              <option name="RECENTLY_FILTERED_USER_GROUPS">
-                <collection />
-              </option>
-              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
-                <collection />
-              </option>
-              <option name="COLUMN_ORDER">
-                <list>
-                  <option value="0" />
-                  <option value="1" />
-                  <option value="2" />
-                  <option value="3" />
-                </list>
-              </option>
-            </State>
-          </value>
-        </entry>
-        <entry key="MAIN">
-          <value>
-            <State>
-              <option name="LONG_EDGES_VISIBLE" value="true" />
-              <option name="RECENTLY_FILTERED_USER_GROUPS">
-                <collection />
-              </option>
-              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
-                <collection />
-              </option>
-              <option name="COLUMN_ORDER">
-                <list>
-                  <option value="0" />
-                  <option value="1" />
-                  <option value="2" />
-                  <option value="3" />
-                </list>
-              </option>
-            </State>
-          </value>
-        </entry>
-      </map>
-    </option>
-  </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="2019-11-19" />
-    <MESSAGE value="2019-11-20" />
-    <MESSAGE value="2019-11-27" />
-    <MESSAGE value="redis demo" />
-    <MESSAGE value="add ignore file" />
-    <MESSAGE value="add ignore file`" />
-    <option name="LAST_COMMIT_MESSAGE" value="add ignore file`" />
+    <MESSAGE value="zhuhui" />
+    <MESSAGE value="lastest" />
+    <option name="LAST_COMMIT_MESSAGE" value="lastest" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/demo/nowcode/PrintAsZ.java</url>
-          <line>39</line>
+          <url>file://$PROJECT_DIR$/src/main/java/com/algorithm/again/GetRow.java</url>
+          <line>13</line>
           <properties />
-          <option name="timeStamp" value="1" />
+          <option name="timeStamp" value="2" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/demo/nowcode/ReConstructBinaryTree.java</url>
-          <line>26</line>
+          <url>file://$PROJECT_DIR$/src/main/java/com/algorithm/again/Yanghuisanjiao.java</url>
+          <line>9</line>
           <properties />
-          <option name="timeStamp" value="3" />
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/algorithm/again/IsSubsequence.java</url>
+          <line>31</line>
+          <properties />
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/algorithm/again/IsPopOrder.java</url>
+          <line>16</line>
+          <properties />
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/algorithm/again/MaxSubArray.java</url>
+          <line>5</line>
+          <properties />
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/algorithm/leeetcode_cn/may/MaxSubArray.java</url>
+          <line>7</line>
+          <properties />
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/algorithm/leeetcode_cn/may/MaxSubArray.java</url>
+          <line>34</line>
+          <properties />
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/algorithm/leeetcode_cn/test_2018/MaxProduct.java</url>
+          <line>43</line>
+          <properties />
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/algorithm/leeetcode_cn/june/LongestCommonPrefix.java</url>
+          <line>17</line>
+          <properties />
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/algorithm/leeetcode_cn/june/ThreeSumClosest.java</url>
+          <line>11</line>
+          <properties />
+          <option name="timeStamp" value="26" />
         </line-breakpoint>
       </breakpoints>
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
     </breakpoint-manager>
   </component>
   <component name="debuggerHistoryManager">
     <expressions id="evaluateExpression">
       <expression>
-        <expression-string>k</expression-string>
+        <expression-string>A.length - (K - 1)</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>A[k]</expression-string>
+        <expression-string>st.peek()</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>res.get(level)</expression-string>
+        <expression-string>st</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>level &amp; 1</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>res.size()</expression-string>
+        <expression-string>pushA[i++]</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://E:/apache-maven-3.5.4/NewResp/com/jayway/restassured/rest-assured/2.9.0/rest-assured-2.9.0-sources.jar!/com/jayway/restassured/internal/http/HTTPBuilder.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/algorithm/leeetcode_cn/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-9870">
-          <caret line="31" column="38" selection-start-line="31" selection-start-column="38" selection-end-line="31" selection-end-column="38" />
+        <state relative-caret-position="217">
+          <caret line="8" column="6" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://E:/apache-maven-3.5.4/NewResp/org/apache/commons/commons-lang3/3.3.2/commons-lang3-3.3.2-sources.jar!/org/apache/commons/lang3/Validate.java">
+    <entry file="file://$PROJECT_DIR$/src/test/com/js/demo.js" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/algorithm/leeetcode_cn/NthUglyNumber.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="46" column="13" selection-start-line="46" selection-start-column="13" selection-end-line="46" selection-end-column="13" />
+        <state relative-caret-position="124">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://E:/apache-maven-3.5.4/NewResp/org/apache/httpcomponents/httpclient/4.5.1/httpclient-4.5.1-sources.jar!/org/apache/http/client/config/CookieSpecs.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/algorithm/leeetcode_cn/MiddleNode.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="37" column="19" selection-start-line="37" selection-start-column="19" selection-end-line="37" selection-end-column="19" />
+        <state relative-caret-position="279">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://E:/apache-maven-3.5.4/NewResp/org/apache/httpcomponents/httpclient/4.5.1/httpclient-4.5.1-sources.jar!/org/apache/http/client/config/AuthSchemes.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/algorithm/leeetcode_cn/MaxRotateFunction.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="37" column="19" selection-start-line="37" selection-start-column="19" selection-end-line="37" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/apache-maven-3.5.4/NewResp/org/apache/httpcomponents/httpclient/4.5.1/httpclient-4.5.1-sources.jar!/org/apache/http/client/methods/HttpPut.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="49" column="13" selection-start-line="49" selection-start-column="13" selection-end-line="49" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/apache-maven-3.5.4/NewResp/org/apache/httpcomponents/httpclient/4.5.1/httpclient-4.5.1-sources.jar!/org/apache/http/client/methods/HttpPost.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="438">
-          <caret line="67" column="20" selection-start-line="67" selection-start-column="20" selection-end-line="67" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/demo/leeetcode_cn/ValidSquare.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="21" column="34" selection-start-column="2" selection-end-line="40" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/demo/leeetcode_cn/NthUglyNumber.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="28" column="18" selection-start-line="28" selection-start-column="18" selection-end-line="28" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/demo/leeetcode_cn/ReverseList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="8" column="3" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/java/src.zip!/java/net/DualStackPlainSocketImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="949">
-          <caret line="87" column="50" lean-forward="true" selection-start-line="87" selection-start-column="50" selection-end-line="87" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/demo/redis/Employee.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="13" column="1" lean-forward="true" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/employee.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="10" selection-start-column="10" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/java/src.zip!/java/io/ObjectOutputStream.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="397">
-          <caret line="334" column="46" lean-forward="true" selection-start-line="334" selection-start-column="46" selection-end-line="334" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/apache-maven-3.5.4/NewResp/redis/clients/jedis/3.1.0/jedis-3.1.0.jar!/redis/clients/jedis/JedisPool.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="151">
-          <caret line="186" column="19" selection-start-line="186" selection-start-column="19" selection-end-line="186" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/apache-maven-3.5.4/NewResp/redis/clients/jedis/3.1.0/jedis-3.1.0.jar!/redis/clients/jedis/Jedis.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="139">
-          <caret line="1592" column="16" selection-start-line="1592" selection-start-column="16" selection-end-line="1592" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/demo/utils/SsJobApplicationTests.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/demo/utils/SSLUtil.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/apache-maven-3.5.4/NewResp/com/alibaba/fastjson/1.2.62/fastjson-1.2.62.jar!/com/alibaba/fastjson/JSON.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="446" column="25" selection-start-line="446" selection-start-column="25" selection-end-line="446" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/demo/utils/HttpsUtil.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="222" column="24" selection-start-line="222" selection-start-column="24" selection-end-line="222" selection-end-column="24" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/extensions/com.intellij.database/schema/Generate POJOs.groovy">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/extensions/com.intellij.database/data/extractors/CSV-Groovy.csv.groovy">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/extensions/com.intellij.database/data/extractors/XML-Groovy.xml.groovy">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="12" column="3" selection-end-line="12" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/demo/redis/RedisUtil.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1050">
-          <caret line="37" column="30" selection-start-line="37" selection-start-column="19" selection-end-line="37" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/demo/redis/SerializeDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/demo/redis/RedisConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="9" column="27" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/demo/restAssured/DouBanTest.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/demo/leeetcode_cn/Multiply.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/restAssured/DouBanTest.class" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/demo/common/IoUtils.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1599">
+        <state relative-caret-position="124">
           <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/demo/dp/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/algorithm/leeetcode_cn/hot100/Rotate.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        <state relative-caret-position="62">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/demo/common/HttpClientResult.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/algorithm/leeetcode_cn/hot100/FindPairs.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-609">
+        <state relative-caret-position="124">
           <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/demo/redis/RedisDemo.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/algorithm/leeetcode_cn/MyHashSet.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-90">
-          <caret line="120" column="16" selection-start-line="120" selection-start-column="16" selection-end-line="120" selection-end-column="16" />
+        <state relative-caret-position="496">
+          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/algorithm/leeetcode_cn/test_2018/Once.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="713">
+          <caret line="24" column="31" selection-start-line="24" selection-start-column="31" selection-end-line="24" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/algorithm/leeetcode_cn/may/MergeTwoLists.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="155">
+          <caret line="5" selection-start-line="5" selection-end-line="19" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/algorithm/leeetcode_cn/may/MaxSubArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="17" column="5" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/algorithm/leeetcode_cn/test_2018/MaxProduct.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1333">
+          <caret line="43" selection-start-line="43" selection-end-line="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/java/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44578">
+          <caret line="1501" column="15" selection-start-line="1501" selection-start-column="15" selection-end-line="1501" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/algorithm/leeetcode_cn/hot100/AddTwoNumbers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="558">
+          <caret line="18" column="5" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/algorithm/leeetcode_cn/UniqueOccurrences.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1302">
+          <caret line="43" column="5" selection-start-line="43" selection-start-column="5" selection-end-line="43" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/algorithm/leeetcode_cn/CorpFlightBookings.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="558">
+          <caret line="18" column="1" selection-start-line="9" selection-start-column="5" selection-end-line="18" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/algorithm/leeetcode_cn/test_2018/AddNegabinary.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="682">
+          <caret line="22" column="3" selection-start-line="22" selection-start-column="3" selection-end-line="22" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/algorithm/leeetcode_cn/test_2018/MaxDepth.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1612">
+          <caret line="52" column="25" selection-start-line="52" selection-start-column="25" selection-end-line="52" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/algorithm/leeetcode_cn/test_2018/LargestSumOfAverages.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="868">
+          <caret line="28" column="1" selection-start-line="28" selection-start-column="1" selection-end-line="28" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/algorithm/leeetcode_cn/test_2018/NextLargerNodes.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="31">
+          <caret line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/algorithm/leeetcode_cn/goldreview/DeleteNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="806">
+          <caret line="26" column="27" selection-start-line="25" selection-start-column="13" selection-end-line="26" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/algorithm/leeetcode_cn/goldreview/KthLargest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="682">
+          <caret line="25" column="5" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/algorithm/leeetcode_cn/june/SortByBits.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="496">
+          <caret line="18" column="8" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/algorithm/leeetcode_cn/june/LongestCommonPrefix.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1054">
+          <caret line="35" selection-start-line="35" selection-end-line="35" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/restAssured/demo/DouBanTest.java" />
-    <entry file="file://$PROJECT_DIR$/src/test/SsJobApplicationTests.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/demo/common/HttpClientUtils.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/algorithm/leeetcode_cn/june/LargeGroupPositions.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
+        <state relative-caret-position="1054">
+          <caret line="36" column="1" selection-start-line="36" selection-start-column="1" selection-end-line="36" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/algorithm/common/ListNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="62">
+          <caret line="2" column="23" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/algorithm/common/LinkList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="372">
+          <caret line="13" column="48" selection-start-line="13" selection-start-column="48" selection-end-line="13" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/java/src.zip!/java/util/LinkedHashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5115">
+          <caret line="191" column="35" selection-start-line="191" selection-start-column="28" selection-end-line="191" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/java/src.zip!/java/util/Arrays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2697">
+          <caret line="128" column="45" selection-start-line="128" selection-start-column="45" selection-end-line="128" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/java/src.zip!/java/lang/Math.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18910">
+          <caret line="666" column="18" selection-start-line="666" selection-start-column="18" selection-end-line="666" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/java/src.zip!/java/util/HashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="31310">
+          <caret line="1070" column="44" selection-start-line="1070" selection-start-column="36" selection-end-line="1070" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/algorithm/leeetcode_cn/BinaryTreeNode/BinaryTreeNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-131">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/algorithm/leeetcode_cn/june/MagicDictionary.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="186">
+          <caret line="6" column="2" selection-start-line="6" selection-start-column="2" selection-end-line="6" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/algorithm/nowcode/ReverseList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="124">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/algorithm/leeetcode_cn/BinaryTreeNode/LevelOrder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="93">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/algorithm/leeetcode_cn/june/RunningSum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="434">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/algorithm/leeetcode_cn/june/IslandPerimeter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="155">
+          <caret line="5" column="6" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/algorithm/leeetcode_cn/june/MaxArea.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="15" column="9" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/algorithm/leeetcode_cn/june/ThreeSum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="341">
+          <caret line="13" column="6" selection-start-line="13" selection-start-column="6" selection-end-line="13" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/algorithm/leeetcode_cn/june/SortedListToBST.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="372">
+          <caret line="12" column="3" selection-start-line="12" selection-start-column="3" selection-end-line="12" selection-end-column="3" />
           <folding>
-            <element signature="e#0#10791#0" expanded="true" />
+            <element signature="e#0#296#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/demo/leeetcode_cn/IsSameTree.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/algorithm/leeetcode_cn/june/GetFolderNames.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/com/jd/test/Hello.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
-          <folding>
-            <element signature="e#86#87#0" expanded="true" />
-            <element signature="e#122#123#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/com/jd/test/RestDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="22" selection-start-line="22" selection-end-line="22" />
+        <state relative-caret-position="868">
+          <caret line="29" column="19" selection-start-line="29" selection-start-column="19" selection-end-line="29" selection-end-column="19" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/com/jd/test/AiocTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/algorithm/leeetcode_cn/june/ThreeSumClosest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="9" column="27" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="27" />
+        <state relative-caret-position="217">
+          <caret line="7" column="65" selection-start-line="7" selection-start-column="65" selection-end-line="7" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/algorithm/leeetcode_cn/june/KidsWithCandies.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/com/jd/test/RestTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/algorithm/nowcode/PrintAsZ.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1110">
-          <caret line="43" column="4" selection-start-line="43" selection-start-column="4" selection-end-line="43" selection-end-column="4" />
+        <state relative-caret-position="1581">
+          <caret line="55" column="17" selection-start-line="55" selection-start-column="17" selection-end-line="55" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/demo/leeetcode_cn/UcommonFromSentences.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/algorithm/leeetcode_cn/PrintZeroEvenOdd.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/algorithm/again/PrintListFromTailToHead.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="630">
-          <caret line="21" selection-start-line="6" selection-start-column="6" selection-end-line="21" />
+        <state relative-caret-position="217">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/demo/common/LinkList.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/algorithm/leeetcode_cn/BinaryTreeNode/BinaryTree.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="7" column="11" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
+        <state relative-caret-position="496">
+          <caret line="18" column="46" selection-start-line="18" selection-start-column="46" selection-end-line="18" selection-end-column="46" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://E:/java/src.zip!/java/util/AbstractCollection.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/algorithm/leeetcode_cn/june/PatternMatching.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3240">
-          <caret line="133" column="20" selection-start-line="133" selection-start-column="20" selection-end-line="133" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/apache-maven-3.5.4/NewResp/io/rest-assured/rest-assured/4.1.2/rest-assured-4.1.2-sources.jar!/io/restassured/response/ValidatableResponseOptions.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="31080">
-          <caret line="1066" column="27" selection-start-line="1066" selection-start-column="27" selection-end-line="1066" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/apache-maven-3.5.4/NewResp/io/rest-assured/rest-assured/4.1.2/rest-assured-4.1.2-sources.jar!/io/restassured/RestAssured.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="18330">
-          <caret line="661" column="39" selection-start-line="661" selection-start-column="39" selection-end-line="661" selection-end-column="39" />
+        <state relative-caret-position="341">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
           <folding>
-            <element signature="e#25951#25952#0" expanded="true" />
-            <element signature="e#26025#26026#0" expanded="true" />
+            <element signature="e#0#224#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/demo/leeetcode_cn/RandomIndex.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/algorithm/again/PrintFromTopToBottom.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="16" column="35" selection-start-line="16" selection-start-column="35" selection-end-line="16" selection-end-column="35" />
+        <state relative-caret-position="496">
+          <caret line="21" column="9" selection-start-line="16" selection-start-column="32" selection-end-line="21" selection-end-column="9" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/demo/leeetcode_cn/PrintAsZ.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="359">
-          <caret line="36" selection-start-line="36" selection-end-line="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/com/jd/test/elastaic/ElastaicTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-266">
-          <caret line="28" column="81" selection-start-line="28" selection-start-column="69" selection-end-line="28" selection-end-column="81" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="22" column="14" lean-forward="true" selection-start-line="22" selection-start-column="14" selection-end-line="22" selection-end-column="14" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/.idea/vcs.xml">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="5" column="5" lean-forward="true" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
+        <state relative-caret-position="403">
+          <caret line="13" column="7" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
         </state>
       </provider>
     </entry>
@@ -1350,6 +1152,7 @@
             <option name="proportions">
               <list>
                 <option value="0.2" />
+                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>

@@ -1,7 +1,0 @@
-{
-  "timestamp": "2019-12-06T12:14:57.537+0000",
-  "status": 400,
-  "error": "Bad Request",
-  "message": "Required request body is missing: public com.jdcloud.openapi.response.ResponseResult com.jdcloud.openapi.controller.UserController.getUserMenus(com.jdcloud.openapi.form.UserQuery)",
-  "path": "/aioc-userapi/user/getUserMenus"
-}

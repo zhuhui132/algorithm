@@ -1,7 +1,7 @@
 //package com.algorithm.service;
 //
-//import com.algorithm.common.User;
-//import com.algorithm.dao.UserDao;
+//import User;
+//import UserDao;
 //import org.junit.Before;
 //import org.junit.Test;
 //import org.mockito.Mock;

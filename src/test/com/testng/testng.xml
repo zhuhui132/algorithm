@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
-
+        <!--在testng.xml中，可以控制测试用例按顺序执行。  当preserve-order="true"是，可以保证节点下面的方法是按顺序执行的-->
 <!-- @BeforeSuite -->
-<suite name="TestAll">
+<suite name="TestAll" preserve-order="false">
 
     <!-- @BeforeTest -->
-    <test name="case1">
+    <test name="case1"  preserve-order="true">
         <classes>
             <!--<class name="com.testng.TestConfiguration" />-->
             <class name="com.testng.TestDBConnection" />

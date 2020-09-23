@@ -1,5 +1,6 @@
 package com.company.demo.testng;
 
+import org.junit.Test;
 import org.testng.annotations.*;
 
 public class BasicAnnotation {
@@ -46,13 +47,13 @@ public class BasicAnnotation {
     }
 
 
-    @Test(expectedExceptions = RuntimeException.class)
+    @Test(expected = RuntimeException.class)
     public void expectExcept(){
         System.out.println("");
     }
 
 
-    @Test(expectedExceptions = ArithmeticException.class)
+    @Test(expected = ArithmeticException.class)
     public int expectExcept22(){
         return 1/0;
     }

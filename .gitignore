@@ -12,3 +12,5 @@
 /algorithm.iml
 /.idea/
 /target/
+
+!/.idea/

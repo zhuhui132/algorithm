@@ -55,7 +55,7 @@
     <dependency>
         <groupId>com.alibaba</groupId>
         <artifactId>fastjson</artifactId>
-        <version>1.2.54</version>
+        <version>1.2.62</version>
     </dependency>
 
     <dependency> <!--Jackson核心包-->
@@ -237,7 +237,7 @@
         <dependency>
             <groupId>cglib</groupId>
             <artifactId>cglib</artifactId>
-            <version>3.2.10</version>
+            <version>3.3.0</version>
         </dependency>
         <!-- https://mvnrepository.com/artifact/org.springframework/spring-aop -->
         <dependency>
